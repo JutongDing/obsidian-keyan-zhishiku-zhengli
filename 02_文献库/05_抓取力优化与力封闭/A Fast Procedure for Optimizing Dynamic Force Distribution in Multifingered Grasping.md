@@ -4,7 +4,7 @@ year: 2006
 doi: 10.1109/TSMCB.2006.879015
 arxiv: 
 key: KB-019
-venue: IEEE Transactions on Systems, Man, and Cybernetics—Part B: Cybernetics
+venue: "IEEE Transactions on Systems, Man, and Cybernetics—Part B: Cybernetics"
 theme: 02_文献库/05_抓取力优化与力封闭
 tags: [动态力分配, 线性规划, 多指抓取, 实时计算]
 pdf: ../../../A_Fast_Procedure_for_Optimizing_Dynamic_Force_Distribution_in_Multifingered_Grasping.pdf

@@ -4,7 +4,7 @@ year: 2018
 doi: 10.1109/TRO.2018.2791591
 arxiv: 
 key: KB-029
-venue: IEEE Transactions on Robotics, 34(2): 542–549
+venue: "IEEE Transactions on Robotics, 34(2): 542–549"
 theme: 02_文献库/07_装配与操作任务
 tags: [轴孔装配, 性能基准, 力控操作, 非参数统计, 多指手]
 pdf: ../../../Comparative Peg-in-Hole Testing of a Force-Based Manipulation Controlled Robotic Hand.pdf

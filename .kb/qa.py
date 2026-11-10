@@ -3,6 +3,10 @@
 """知识库质量检查：板块完整性、frontmatter、断链、文件名、主题归属、重复标题。
 用法：python3 .kb/qa.py [--strict]   报告写入 .kb/qa_report.md"""
 import os, re, sys, json
+try:
+    import yaml
+except ImportError:
+    yaml = None
 from collections import Counter, defaultdict
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -71,6 +75,13 @@ def main():
         if fm is None:
             errors.append(f"{rel}: 缺少 frontmatter")
             fm = {}
+        if yaml is not None:
+            m = re.match(r"^---\n(.*?)\n---\n", text, re.S)
+            if m:
+                try:
+                    yaml.safe_load(m.group(1))
+                except Exception as e:
+                    errors.append(f"{rel}: frontmatter YAML 无效（Obsidian 会显示无效属性）: {str(e).splitlines()[0]}")
         for k in REQUIRED_FM:
             if k not in fm:
                 errors.append(f"{rel}: frontmatter 缺字段 {k}")

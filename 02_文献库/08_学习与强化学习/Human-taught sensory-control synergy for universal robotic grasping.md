@@ -4,7 +4,7 @@ year: 2026
 doi: 10.1093/nsr/nwaf583
 arxiv: 
 key: KB-073
-venue: National Science Review（13: nwaf583）
+venue: "National Science Review（13: nwaf583）"
 theme: 02_文献库/08_学习与强化学习
 tags: [触觉手套, 多模态触觉, 语义状态, 模糊控制, 人手技能迁移]
 pdf: ../../../Human-taught sensory-control synergy for universal robotic grasping.pdf

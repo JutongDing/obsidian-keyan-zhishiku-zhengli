@@ -4,7 +4,7 @@ year: 2018
 doi: 10.1016/j.robot.2018.01.001
 arxiv: 
 key: KB-015
-venue: Robotics and Autonomous Systems, 102: 1–12
+venue: "Robotics and Autonomous Systems, 102: 1–12"
 theme: 02_文献库/04_绳驱机构与结构设计
 tags: [欠驱动手指, 弹簧刚度, 抓取稳定域, 静力学, 机构设计]
 pdf: ../../../A metric to design spring stiffness of underactuated fingers for stable.pdf

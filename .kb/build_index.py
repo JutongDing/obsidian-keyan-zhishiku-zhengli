@@ -13,6 +13,21 @@ LINK = re.compile(r"\[\[([^\]|#]+)(?:#[^\]|]*)?(?:\|[^\]]*)?\]\]")
 SKIP = {"00_专业名词库"}
 
 
+SPECIAL = set('-?:,[]{}#&*!|>\'"%@`')
+
+
+def quote_if_needed(v):
+    """写回 frontmatter 前给含 ': ' 等敏感字符的值加引号，避免 Obsidian 报"无效属性"。"""
+    if not v or v.startswith('[') or (v[0] in '"\'' and v[-1] == v[0]):
+        return v
+    if ': ' in v or ' #' in v or v.endswith(':') or v[0] in SPECIAL:
+        return '"' + v.replace('\\', '\\\\').replace('"', '\\"') + '"'
+    return v
+
+
+def emit_fm(fm):
+    return "".join(f"{k}: {quote_if_needed(v)}\n" for k, v in fm.items())
+
 def parse(path):
     text = open(path, encoding="utf-8").read()
     m = re.match(r"^---\n(.*?)\n---\n(.*)$", text, re.S)
@@ -82,7 +97,7 @@ def main():
         content = "\n".join(f"- [[{t}]]" for t in final) if final else "- 同主题暂无可关联笔记"
         new_body = replace_section(n["body"], "🔗 关联", content)
         if new_body != n["body"]:
-            fm_text = "".join(f"{k}: {v}\n" for k, v in n["fm"].items())
+            fm_text = emit_fm(n["fm"])
             with open(n["path"], "w", encoding="utf-8") as fh:
                 fh.write(f"---\n{fm_text}---\n{new_body}")
             n["body"] = new_body
@@ -105,7 +120,7 @@ def main():
             content += f"\n- …等共 {len(refs)} 篇"
         new_body = replace_section(info["body"], "关联文献", content)
         if new_body != info["body"]:
-            fm_text = "".join(f"{k}: {v}\n" for k, v in info["fm"].items())
+            fm_text = emit_fm(info["fm"])
             with open(info["path"], "w", encoding="utf-8") as fh:
                 fh.write(f"---\n{fm_text}---\n{new_body}")
             info["body"] = new_body

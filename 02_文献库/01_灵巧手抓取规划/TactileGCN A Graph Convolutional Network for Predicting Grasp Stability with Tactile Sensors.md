@@ -1,5 +1,5 @@
 ---
-title: TactileGCN: A Graph Convolutional Network for Predicting Grasp Stability with Tactile Sensors
+title: "TactileGCN: A Graph Convolutional Network for Predicting Grasp Stability with Tactile Sensors"
 year: 2019
 doi: 
 arxiv: 1901.06181

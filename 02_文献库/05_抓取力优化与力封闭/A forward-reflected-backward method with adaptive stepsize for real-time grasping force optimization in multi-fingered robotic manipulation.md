@@ -4,7 +4,7 @@ year: 2026
 doi: 10.1016/j.apm.2026.117151
 arxiv: 
 key: KB-014
-venue: Applied Mathematical Modelling, 161: 117151（卷期标注 2027，2026-06-24 在线）
+venue: "Applied Mathematical Modelling, 161: 117151（卷期标注 2027，2026-06-24 在线）"
 theme: 02_文献库/05_抓取力优化与力封闭
 tags: [抓取力优化, 摩擦锥, 算子分裂, 实时控制, 凸优化]
 pdf: ../../../A forward-reflected-backward method with adaptive stepsize for real-time grasping force optimization in multi-fingered robotic manipulation.pdf

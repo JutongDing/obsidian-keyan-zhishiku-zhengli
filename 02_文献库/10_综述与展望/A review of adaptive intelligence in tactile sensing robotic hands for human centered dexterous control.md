@@ -4,7 +4,7 @@ year: 2026
 doi: 10.1007/s44245-026-00275-y
 arxiv: 
 key: KB-016
-venue: Discover Mechanical Engineering, 5: 89
+venue: "Discover Mechanical Engineering, 5: 89"
 theme: 02_文献库/10_综述与展望
 tags: [综述, 触觉感知, 自适应智能, 人机协作, 部署评估]
 pdf: ../../../A review of adaptive intelligence in tactile sensing robotic hands for human centered dexterous control.pdf

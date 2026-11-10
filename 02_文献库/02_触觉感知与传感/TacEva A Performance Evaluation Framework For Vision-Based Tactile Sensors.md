@@ -1,5 +1,5 @@
 ---
-title: TacEva: A Performance Evaluation Framework For Vision-Based Tactile Sensors
+title: "TacEva: A Performance Evaluation Framework For Vision-Based Tactile Sensors"
 year: 2025
 doi: 
 arxiv: 2509.19037

@@ -1,5 +1,5 @@
 ---
-title: ORCA: An Open-Source, Reliable, Cost-Effective, Anthropomorphic Robotic Hand for Uninterrupted Dexterous Task Learning
+title: "ORCA: An Open-Source, Reliable, Cost-Effective, Anthropomorphic Robotic Hand for Uninterrupted Dexterous Task Learning"
 year: 2025
 doi: 
 arxiv: 2504.04259

@@ -1,5 +1,5 @@
 ---
-title: Grasping in the Dark: Zero-Shot Object Grasping Using Tactile Feedback
+title: "Grasping in the Dark: Zero-Shot Object Grasping Using Tactile Feedback"
 year: 2021
 doi: arXiv:2011.00712
 arxiv: 2011.00712

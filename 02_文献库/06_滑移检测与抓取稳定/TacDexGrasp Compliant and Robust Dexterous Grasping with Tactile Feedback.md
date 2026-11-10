@@ -1,5 +1,5 @@
 ---
-title: TacDexGrasp: Compliant and Robust Dexterous Grasping with Tactile Feedback
+title: "TacDexGrasp: Compliant and Robust Dexterous Grasping with Tactile Feedback"
 year: 2026
 doi: 
 arxiv: 2603.07040

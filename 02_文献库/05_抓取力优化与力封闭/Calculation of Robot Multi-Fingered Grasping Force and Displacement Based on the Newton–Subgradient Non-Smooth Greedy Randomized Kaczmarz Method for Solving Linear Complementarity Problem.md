@@ -4,7 +4,7 @@ year: 2025
 doi: 10.3390/s25072309
 arxiv: 
 key: KB-027
-venue: Sensors (MDPI), 2025, 25: 2309
+venue: "Sensors (MDPI), 2025, 25: 2309"
 theme: 02_文献库/05_抓取力优化与力封闭
 tags: [线性互补问题, 抓取力计算, 非光滑方程, Kaczmarz, 多指抓取]
 pdf: ../../../Calculation of Robot Multi-Fingered Grasping Force and Displacement Based on the Newton–Subgradient Non-Smooth Greedy Randomized Kaczmarz Method for Solving Linear Complementarity Problem.pdf

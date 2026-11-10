@@ -4,7 +4,7 @@ year: 2026
 doi: 10.1108/IR-11-2024-0510
 arxiv: 
 key: KB-004
-venue: Industrial Robot: the international journal of robotics research and application, Vol. 53, No. 1
+venue: "Industrial Robot: the international journal of robotics research and application, Vol. 53, No. 1"
 theme: 02_文献库/07_装配与操作任务
 tags: [轴孔装配, 触觉伺服, 动态孔, 孔搜索, 空间装配]
 pdf: ../../../3D tactile servo controla peg-in-hole strategy.pdf

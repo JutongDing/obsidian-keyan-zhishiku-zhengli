@@ -4,7 +4,7 @@ year: 2025
 doi: 10.1016/j.rcim.2025.103021
 arxiv: 
 key: KB-018
-venue: Robotics and Computer-Integrated Manufacturing, 95: 103021
+venue: "Robotics and Computer-Integrated Manufacturing, 95: 103021"
 theme: 02_文献库/10_综述与展望
 tags: [综述, 灵巧手, 智能制造, 本体结构, 操作技能]
 pdf: ../../../A review of technologies, trends, and potential applications.pdf

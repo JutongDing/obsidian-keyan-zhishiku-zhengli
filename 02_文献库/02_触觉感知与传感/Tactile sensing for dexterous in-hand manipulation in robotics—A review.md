@@ -4,7 +4,7 @@ year: 2011
 doi: 10.1016/j.sna.2011.02.038
 arxiv: 
 key: KB-147
-venue: Sensors and Actuators A: Physical
+venue: "Sensors and Actuators A: Physical"
 theme: 02_文献库/02_触觉感知与传感
 tags: [触觉传感, 手内操作, 综述, 传感技术对比]
 pdf: ../../../Tactile sensing for dexterous in-hand manipulation in robotics—A review.pdf

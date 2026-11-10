@@ -4,7 +4,7 @@ year: 2024
 doi: 
 arxiv: 
 key: KB-031
-venue: Robotics: Science and Systems (RSS) 2024, Delft
+venue: "Robotics: Science and Systems (RSS) 2024, Delft"
 theme: 02_文献库/04_绳驱机构与结构设计
 tags: [欠驱动夹爪, 连杆机构, 力反馈控制, LSTM, 抓取模式切换]
 pdf: ../../../Construction of a Multiple-DOF Under-actuated.pdf
