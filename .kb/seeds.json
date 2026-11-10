@@ -1,0 +1,5650 @@
+[
+ {
+  "id": "KB-001",
+  "file": "2010ICRA_hasegawa_Development of Intelligent Robot Hand using Proximity, Contact and Slip sensing.pdf",
+  "pages": 8,
+  "title_guess": "2010ICRA hasegawa Development of Intelligent Robot Hand using Proximity, Contact and Slip sensing",
+  "year_candidates": [
+   2007,
+   2008,
+   2010,
+   2006,
+   2009,
+   1999
+  ],
+  "doi": null,
+  "arxiv": null,
+  "theme_suggest": "10_综述与展望",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-001.txt"
+ },
+ {
+  "id": "KB-002",
+  "file": "2026_Lagrangian_Neural_Network-Based_Control_Improving_Robot.pdf",
+  "pages": 8,
+  "title_guess": "2026 Lagrangian Neural Network-Based Control Improving Robot",
+  "year_candidates": [
+   2026,
+   2024,
+   2025,
+   2021,
+   2019,
+   2022
+  ],
+  "doi": "10.1109/LRA.2026.3653326",
+  "arxiv": null,
+  "theme_suggest": "08_学习与强化学习",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 1,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-002.txt"
+ },
+ {
+  "id": "KB-003",
+  "file": "2026_SilRef_Joint_Visual_Silhouette_and_Tactile_Pose_Optimiz.pdf",
+  "pages": 8,
+  "title_guess": "2026 SilRef Joint Visual Silhouette and Tactile Pose Optimiz",
+  "year_candidates": [
+   2026,
+   2023,
+   2024,
+   2020,
+   2022,
+   2025
+  ],
+  "doi": "10.1109/LRA.2026.3653340",
+  "arxiv": null,
+  "theme_suggest": "10_综述与展望",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-003.txt"
+ },
+ {
+  "id": "KB-004",
+  "file": "3D tactile servo controla peg-in-hole strategy.pdf",
+  "pages": 9,
+  "title_guess": "3D tactile servo controla peg-in-hole strategy",
+  "year_candidates": [
+   2026,
+   2022,
+   2021,
+   2024,
+   2019,
+   2023
+  ],
+  "doi": "10.1108/IR-11-2024-0510]",
+  "arxiv": null,
+  "theme_suggest": "07_装配与操作任务",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 14,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-004.txt"
+ },
+ {
+  "id": "KB-005",
+  "file": "3D-ViTac.pdf",
+  "pages": 22,
+  "title_guess": "3D-ViTac",
+  "year_candidates": [
+   2025,
+   2024
+  ],
+  "doi": null,
+  "arxiv": "2410.24091",
+  "theme_suggest": "02_触觉感知与传感",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 2,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-005.txt"
+ },
+ {
+  "id": "KB-006",
+  "file": "A General Contact Force Analysis.pdf",
+  "pages": 17,
+  "title_guess": "A General Contact Force Analysis",
+  "year_candidates": [
+   2016,
+   2014,
+   2015
+  ],
+  "doi": "10.5772/62131",
+  "arxiv": null,
+  "theme_suggest": "10_综述与展望",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-006.txt"
+ },
+ {
+  "id": "KB-007",
+  "file": "A Grasping Force Optimization Algorithm for Dexterous Robotic Hands.pdf",
+  "pages": 6,
+  "title_guess": "A Grasping Force Optimization Algorithm for Dexterous Robotic Hands",
+  "year_candidates": [
+   2026,
+   2012,
+   1998,
+   2007,
+   2013,
+   1990
+  ],
+  "doi": null,
+  "arxiv": null,
+  "theme_suggest": "05_抓取力优化与力封闭",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 18,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-007.txt"
+ },
+ {
+  "id": "KB-008",
+  "file": "A Learning-based Controller for Multi-Contact Grasps.pdf",
+  "pages": 7,
+  "title_guess": "A Learning-based Controller for Multi-Contact Grasps",
+  "year_candidates": [
+   2020,
+   2015,
+   2023,
+   2022,
+   2024,
+   2006
+  ],
+  "doi": null,
+  "arxiv": "2409.12339",
+  "theme_suggest": "03_阻抗与柔顺控制",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 1,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-008.txt"
+ },
+ {
+  "id": "KB-009",
+  "file": "A Mathematical Introduction to Robotic Manipulation.pdf",
+  "pages": 474,
+  "title_guess": "A Mathematical Introduction to Robotic Manipulation",
+  "year_candidates": [
+   1994
+  ],
+  "doi": null,
+  "arxiv": null,
+  "theme_suggest": "10_综述与展望",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-009.txt"
+ },
+ {
+  "id": "KB-010",
+  "file": "A Review of Robotic Dexterous Hands.pdf",
+  "pages": 5,
+  "title_guess": "A Review of Robotic Dexterous Hands",
+  "year_candidates": [
+   2025,
+   2022,
+   2020,
+   2013,
+   2026,
+   2019
+  ],
+  "doi": "10.3389/fnbot.2022.843267",
+  "arxiv": null,
+  "theme_suggest": "10_综述与展望",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 5,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 1,
+   "10_综述与展望": 12
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-010.txt"
+ },
+ {
+  "id": "KB-011",
+  "file": "A Robotic Grasping State Perception Framework With Multi-Phase Tactile Information and Ensemble Learning.pdf",
+  "pages": 8,
+  "title_guess": "A Robotic Grasping State Perception Framework With Multi-Phase Tactile Information and Ensemble Learning",
+  "year_candidates": [
+   2022,
+   2026,
+   2015,
+   2017,
+   2018,
+   2016
+  ],
+  "doi": "10.1109/LRA.2022.3151260",
+  "arxiv": "2104.02395",
+  "theme_suggest": "02_触觉感知与传感",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 1,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 1,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 1,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-011.txt"
+ },
+ {
+  "id": "KB-012",
+  "file": "A Simplified Grasping Strategy for Under-Driven Dexterous Hand Based on Geometric Structure.pdf",
+  "pages": 5,
+  "title_guess": "A Simplified Grasping Strategy for Under-Driven Dexterous Hand Based on Geometric Structure",
+  "year_candidates": [
+   2024,
+   2023,
+   2026,
+   2010,
+   2011,
+   2022
+  ],
+  "doi": "10.1109/IAECST64597.2024.11117905",
+  "arxiv": null,
+  "theme_suggest": "10_综述与展望",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-012.txt"
+ },
+ {
+  "id": "KB-013",
+  "file": "A comprehensive review of dexterous robotic hands.pdf",
+  "pages": 46,
+  "title_guess": "A comprehensive review of dexterous robotic hands",
+  "year_candidates": [
+   2025,
+   2026,
+   1992
+  ],
+  "doi": "10.1088/1748-3190/ade7e1",
+  "arxiv": "2309.10886",
+  "theme_suggest": "10_综述与展望",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 15
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-013.txt"
+ },
+ {
+  "id": "KB-014",
+  "file": "A forward-reflected-backward method with adaptive stepsize for real-time grasping force optimization in multi-fingered robotic manipulation.pdf",
+  "pages": 18,
+  "title_guess": "A forward-reflected-backward method with adaptive stepsize for real-time grasping force optimization in multi-fingered robotic manipulation",
+  "year_candidates": [
+   2026
+  ],
+  "doi": "10.1016/j.apm.2026.117151",
+  "arxiv": "2502.16420",
+  "theme_suggest": "05_抓取力优化与力封闭",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 21,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 1,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-014.txt"
+ },
+ {
+  "id": "KB-015",
+  "file": "A metric to design spring stiffness of underactuated fingers for stable.pdf",
+  "pages": 12,
+  "title_guess": "A metric to design spring stiffness of underactuated fingers for stable",
+  "year_candidates": [
+   2018,
+   2017
+  ],
+  "doi": "10.1016/j.robot.2018.01.001",
+  "arxiv": null,
+  "theme_suggest": "04_绳驱机构与结构设计",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 15,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-015.txt"
+ },
+ {
+  "id": "KB-016",
+  "file": "A review of adaptive intelligence in tactile sensing robotic hands for human centered dexterous control.pdf",
+  "pages": 30,
+  "title_guess": "A review of adaptive intelligence in tactile sensing robotic hands for human centered dexterous control",
+  "year_candidates": [
+   2026,
+   2020,
+   2025
+  ],
+  "doi": "10.1007/s44245-026-00275-y",
+  "arxiv": "2111.00071",
+  "theme_suggest": "10_综述与展望",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 3,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 1,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 1,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 1,
+   "10_综述与展望": 18
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-016.txt"
+ },
+ {
+  "id": "KB-017",
+  "file": "A review of modeling of soft-contact fingers and stiffness control for dextrous manipulation in robotics.pdf",
+  "pages": 6,
+  "title_guess": "A review of modeling of soft-contact fingers and stiffness control for dextrous manipulation in robotics",
+  "year_candidates": [
+   2026,
+   2000,
+   1989,
+   1999,
+   2001,
+   1992
+  ],
+  "doi": null,
+  "arxiv": null,
+  "theme_suggest": "10_综述与展望",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 9
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-017.txt"
+ },
+ {
+  "id": "KB-018",
+  "file": "A review of technologies, trends, and potential applications.pdf",
+  "pages": 22,
+  "title_guess": "A review of technologies, trends, and potential applications",
+  "year_candidates": [
+   2025,
+   2022,
+   2023,
+   2020,
+   2024,
+   2021
+  ],
+  "doi": "10.1016/j.rcim.2025.103021",
+  "arxiv": "2309.06440",
+  "theme_suggest": "10_综述与展望",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 18
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-018.txt"
+ },
+ {
+  "id": "KB-019",
+  "file": "A_Fast_Procedure_for_Optimizing_Dynamic_Force_Distribution_in_Multifingered_Grasping.pdf",
+  "pages": 6,
+  "title_guess": "A Fast Procedure for Optimizing Dynamic Force Distribution in Multifingered Grasping",
+  "year_candidates": [
+   2006,
+   2026,
+   1991,
+   1989,
+   2004,
+   1996
+  ],
+  "doi": "10.1109/TSMCB.2006.879015",
+  "arxiv": null,
+  "theme_suggest": "05_抓取力优化与力封闭",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 6,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-019.txt"
+ },
+ {
+  "id": "KB-020",
+  "file": "A_Novel_Synthesis_of_Computational_Approaches_Enables_Optimization_of_Grasp_Quality_of_Tendon-Driven_Hands.pdf",
+  "pages": 9,
+  "title_guess": "A Novel Synthesis of Computational Approaches Enables Optimization of Grasp Quality of Tendon-Driven Hands",
+  "year_candidates": [
+   2012,
+   2026,
+   2011,
+   2006,
+   1998,
+   2005
+  ],
+  "doi": "10.1109/TRO.2012.2196189",
+  "arxiv": null,
+  "theme_suggest": "04_绳驱机构与结构设计",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 3,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 4,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-020.txt"
+ },
+ {
+  "id": "KB-021",
+  "file": "Active Touch Sensing for Robust Hole Detection in Assembly Tasks.pdf",
+  "pages": 22,
+  "title_guess": "Active Touch Sensing for Robust Hole Detection in Assembly Tasks",
+  "year_candidates": [
+   2025
+  ],
+  "doi": "10.3390/s25154567",
+  "arxiv": "2012.05205",
+  "theme_suggest": "07_装配与操作任务",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 2,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 19,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-021.txt"
+ },
+ {
+  "id": "KB-022",
+  "file": "All the Feels.pdf",
+  "pages": 8,
+  "title_guess": "All the Feels",
+  "year_candidates": [
+   2023,
+   2026,
+   2020,
+   2019,
+   2022,
+   2016
+  ],
+  "doi": "10.1109/LRA.2023.3327619",
+  "arxiv": null,
+  "theme_suggest": "02_触觉感知与传感",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 4,
+   "03_阻抗与柔顺控制": 1,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-022.txt"
+ },
+ {
+  "id": "KB-023",
+  "file": "An Adaptive Grasping Force Tracking Strategy for Nonlinear and Time-Varying Object Behaviors.pdf",
+  "pages": 14,
+  "title_guess": "An Adaptive Grasping Force Tracking Strategy for Nonlinear and Time-Varying Object Behaviors",
+  "year_candidates": [
+   2025,
+   2021
+  ],
+  "doi": null,
+  "arxiv": "2412.02335",
+  "theme_suggest": "05_抓取力优化与力封闭",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 9,
+   "06_滑移检测与抓取稳定": 1,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-023.txt"
+ },
+ {
+  "id": "KB-024",
+  "file": "An overview of learning-based dexterous grasping.pdf",
+  "pages": 44,
+  "title_guess": "An overview of learning-based dexterous grasping",
+  "year_candidates": [
+   2024,
+   2020,
+   2023,
+   2019,
+   2022,
+   2021
+  ],
+  "doi": "10.1007/s10462-025-11262-2",
+  "arxiv": "1908.02564",
+  "theme_suggest": "10_综述与展望",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 1,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 8
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-024.txt"
+ },
+ {
+  "id": "KB-025",
+  "file": "CNN-based Methods for Object Recognition with High-Resolution Tactile Sensors.pdf",
+  "pages": 10,
+  "title_guess": "CNN-based Methods for Object Recognition with High-Resolution Tactile Sensors",
+  "year_candidates": [
+   2019,
+   2017,
+   2023,
+   2018,
+   2016
+  ],
+  "doi": "10.1109/JSEN.2019.2912968",
+  "arxiv": "2305.12417",
+  "theme_suggest": "02_触觉感知与传感",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 12,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-025.txt"
+ },
+ {
+  "id": "KB-026",
+  "file": "CROSS-EMBODIMENT DEXTEROUS GRASPING.pdf",
+  "pages": 22,
+  "title_guess": "CROSS-EMBODIMENT DEXTEROUS GRASPING",
+  "year_candidates": [
+   2023,
+   2024,
+   2020,
+   2022,
+   2025,
+   2021
+  ],
+  "doi": null,
+  "arxiv": "2309.06440",
+  "theme_suggest": "08_学习与强化学习",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 3,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-026.txt"
+ },
+ {
+  "id": "KB-027",
+  "file": "Calculation of Robot Multi-Fingered Grasping Force and Displacement Based on the Newton–Subgradient Non-Smooth Greedy Randomized Kaczmarz Method for Solving Linear Complementarity Problem.pdf",
+  "pages": 19,
+  "title_guess": "Calculation of Robot Multi-Fingered Grasping Force and Displacement Based on the Newton–Subgradient Non-Smooth Greedy Randomized Kaczmarz Method for Solving Linear Complementarity Problem",
+  "year_candidates": [
+   2025
+  ],
+  "doi": "10.3390/s25072309",
+  "arxiv": "2405.17020",
+  "theme_suggest": "05_抓取力优化与力封闭",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 15,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-027.txt"
+ },
+ {
+  "id": "KB-028",
+  "file": "Closing the Reality Gap.pdf",
+  "pages": 23,
+  "title_guess": "Closing the Reality Gap",
+  "year_candidates": [
+   2026,
+   2025
+  ],
+  "doi": null,
+  "arxiv": "2601.02778",
+  "theme_suggest": "08_学习与强化学习",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 3,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-028.txt"
+ },
+ {
+  "id": "KB-029",
+  "file": "Comparative Peg-in-Hole Testing of a Force-Based Manipulation Controlled Robotic Hand.pdf",
+  "pages": 8,
+  "title_guess": "Comparative Peg-in-Hole Testing of a Force-Based Manipulation Controlled Robotic Hand",
+  "year_candidates": [
+   2018,
+   2026,
+   2017,
+   2015,
+   2014,
+   2012
+  ],
+  "doi": "10.1109/TRO.2018.2791591",
+  "arxiv": "1601.05484",
+  "theme_suggest": "07_装配与操作任务",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 1,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 25,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-029.txt"
+ },
+ {
+  "id": "KB-030",
+  "file": "Composing Dextrous Grasping and In-hand Manipulation.pdf",
+  "pages": 8,
+  "title_guess": "Composing Dextrous Grasping and In-hand Manipulation",
+  "year_candidates": [
+   2022,
+   2023,
+   2015,
+   2024,
+   2012,
+   1988
+  ],
+  "doi": null,
+  "arxiv": "2505.13253",
+  "theme_suggest": "08_学习与强化学习",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 3,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-030.txt"
+ },
+ {
+  "id": "KB-031",
+  "file": "Construction of a Multiple-DOF Under-actuated.pdf",
+  "pages": 12,
+  "title_guess": "Construction of a Multiple-DOF Under-actuated",
+  "year_candidates": [
+   2024
+  ],
+  "doi": null,
+  "arxiv": null,
+  "theme_suggest": "04_绳驱机构与结构设计",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 1,
+   "05_抓取力优化与力封闭": 1,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-031.txt"
+ },
+ {
+  "id": "KB-032",
+  "file": "Contact-Implicit Model Predictive Control for Dexterous In-hand Manipulation.pdf",
+  "pages": 7,
+  "title_guess": "Contact-Implicit Model Predictive Control for Dexterous In-hand Manipulation",
+  "year_candidates": [
+   2023,
+   2021,
+   2022,
+   2018,
+   2024,
+   2020
+  ],
+  "doi": null,
+  "arxiv": "2402.18897",
+  "theme_suggest": "10_综述与展望",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-032.txt"
+ },
+ {
+  "id": "KB-033",
+  "file": "CoorGrasp.pdf",
+  "pages": 11,
+  "title_guess": "CoorGrasp",
+  "year_candidates": [
+   2023,
+   2024,
+   2025,
+   2022,
+   2016,
+   2015
+  ],
+  "doi": null,
+  "arxiv": "2412.16490",
+  "theme_suggest": "01_灵巧手抓取规划",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 3,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-033.txt"
+ },
+ {
+  "id": "KB-034",
+  "file": "D(R,O)Grasp.pdf",
+  "pages": 10,
+  "title_guess": "D(R,O)Grasp",
+  "year_candidates": [
+   2023,
+   2024,
+   2021,
+   2022,
+   2015,
+   2020
+  ],
+  "doi": null,
+  "arxiv": "2204.13998",
+  "theme_suggest": "10_综述与展望",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-034.txt"
+ },
+ {
+  "id": "KB-035",
+  "file": "D3Grasp.pdf",
+  "pages": 13,
+  "title_guess": "D3Grasp",
+  "year_candidates": [
+   2024,
+   2025,
+   2023,
+   2021,
+   2022,
+   2017
+  ],
+  "doi": null,
+  "arxiv": "2509.19892",
+  "theme_suggest": "08_学习与强化学习",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 2,
+   "09_视触融合与VLA": 2,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-035.txt"
+ },
+ {
+  "id": "KB-036",
+  "file": "DIGIT- A Novel Design for a Low-Cost Compact High-Resolution Tactile Sensor with Application to In-Hand Manipulation.pdf",
+  "pages": 8,
+  "title_guess": "DIGIT- A Novel Design for a Low-Cost Compact High-Resolution Tactile Sensor with Application to In-Hand Manipulation",
+  "year_candidates": [
+   2019,
+   2020,
+   2017,
+   2018,
+   2015,
+   2005
+  ],
+  "doi": "10.1109/LRA.2020.2977257",
+  "arxiv": "2005.14679",
+  "theme_suggest": "02_触觉感知与传感",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 25,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-036.txt"
+ },
+ {
+  "id": "KB-037",
+  "file": "Design, Fabrication, and Characterization of a Novel Optical Six-Axis Distributed Force and Displacement Tactile Sensor for Dexterous Robotic Manipulation.pdf",
+  "pages": 25,
+  "title_guess": "Design, Fabrication, and Characterization of a Novel Optical Six-Axis Distributed Force and Displacement Tactile Sensor for Dexterous Robotic Manipulation",
+  "year_candidates": [
+   2023
+  ],
+  "doi": "10.3390/s23249640",
+  "arxiv": "2002.02474",
+  "theme_suggest": "02_触觉感知与传感",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 10,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-037.txt"
+ },
+ {
+  "id": "KB-038",
+  "file": "Design, analysis and experiment of a passively adaptive underactuated robotic hand with linkage-slider and rack-pinion mechanisms.pdf",
+  "pages": 17,
+  "title_guess": "Design, analysis and experiment of a passively adaptive underactuated robotic hand with linkage-slider and rack-pinion mechanisms",
+  "year_candidates": [
+   2021,
+   2020
+  ],
+  "doi": "10.1016/j.mechmachtheory.2020.104092",
+  "arxiv": null,
+  "theme_suggest": "04_绳驱机构与结构设计",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 27,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-038.txt"
+ },
+ {
+  "id": "KB-039",
+  "file": "Dexonomy.pdf",
+  "pages": 16,
+  "title_guess": "Dexonomy",
+  "year_candidates": [
+   2025
+  ],
+  "doi": null,
+  "arxiv": "2504.18829",
+  "theme_suggest": "01_灵巧手抓取规划",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 1,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-039.txt"
+ },
+ {
+  "id": "KB-040",
+  "file": "Dexterous In-Hand Manipulation of Slender Cylindrical Objects through Deep Reinforcement Learning with Tactile Sensing.pdf",
+  "pages": 10,
+  "title_guess": "Dexterous In-Hand Manipulation of Slender Cylindrical Objects through Deep Reinforcement Learning with Tactile Sensing",
+  "year_candidates": [
+   2023,
+   2020,
+   2022
+  ],
+  "doi": null,
+  "arxiv": "2304.05141",
+  "theme_suggest": "02_触觉感知与传感",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 10,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 8,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-040.txt"
+ },
+ {
+  "id": "KB-041",
+  "file": "Dexterous_Manipulation_for_Multi-Fingered_Robotic_.pdf",
+  "pages": 17,
+  "title_guess": "Dexterous Manipulation for Multi-Fingered Robotic",
+  "year_candidates": [
+   2021,
+   2022,
+   2018,
+   2019,
+   2015,
+   2020
+  ],
+  "doi": "10.3389/fnbot.2022.861825",
+  "arxiv": "1911.09233",
+  "theme_suggest": "08_学习与强化学习",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 3,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 3
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-041.txt"
+ },
+ {
+  "id": "KB-042",
+  "file": "Direction of Slip Detection for Adaptive Grasp Force Control with a Dexterous Robotic Hand.pdf",
+  "pages": 22,
+  "title_guess": "Direction of Slip Detection for Adaptive Grasp Force Control with a Dexterous Robotic Hand",
+  "year_candidates": [
+   2020,
+   2018,
+   2012,
+   2013,
+   2014,
+   2017
+  ],
+  "doi": "10.1109/aim.2018.8452704",
+  "arxiv": null,
+  "theme_suggest": "06_滑移检测与抓取稳定",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 6,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-042.txt"
+ },
+ {
+  "id": "KB-043",
+  "file": "Dynamic In-hand Sliding Manipulation.pdf",
+  "pages": 8,
+  "title_guess": "Dynamic In-hand Sliding Manipulation",
+  "year_candidates": [
+   1991,
+   2006,
+   1988,
+   2003,
+   2004,
+   2014
+  ],
+  "doi": null,
+  "arxiv": null,
+  "theme_suggest": "10_综述与展望",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-043.txt"
+ },
+ {
+  "id": "KB-044",
+  "file": "Embedding high-resolution touch across .pdf",
+  "pages": 22,
+  "title_guess": "Embedding high-resolution touch across",
+  "year_candidates": [
+   2025,
+   2024
+  ],
+  "doi": "10.1038/s42256-025-01053-3",
+  "arxiv": null,
+  "theme_suggest": "02_触觉感知与传感",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 2,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-044.txt"
+ },
+ {
+  "id": "KB-045",
+  "file": "Empower dexterous robotic hand for human-centric smart manufacturing.pdf",
+  "pages": 17,
+  "title_guess": "Empower dexterous robotic hand for human-centric smart manufacturing",
+  "year_candidates": [
+   2024,
+   2022,
+   2023,
+   2020,
+   2021,
+   2025
+  ],
+  "doi": "10.1016/j.rcim.2024.102909",
+  "arxiv": "2402.14795",
+  "theme_suggest": "10_综述与展望",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 2
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-045.txt"
+ },
+ {
+  "id": "KB-046",
+  "file": "End-to-end Deep Reinforcement Learning and Control with Multimodal Perception for Planetary Robotic Dual Peg-in-Hole Assembly.pdf",
+  "pages": 14,
+  "title_guess": "End-to-end Deep Reinforcement Learning and Control with Multimodal Perception for Planetary Robotic Dual Peg-in-Hole Assembly",
+  "year_candidates": [
+   2024,
+   2023,
+   2022,
+   2015,
+   2020,
+   2019
+  ],
+  "doi": "10.1016/j.asr.2024.08.028",
+  "arxiv": "1801.01290",
+  "theme_suggest": "07_装配与操作任务",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 24,
+   "08_学习与强化学习": 13,
+   "09_视触融合与VLA": 9,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-046.txt"
+ },
+ {
+  "id": "KB-047",
+  "file": "Fang_GraspNet-1Billion_A_Large-Scale_Benchmark_for_General_Object_Grasping_CVPR_2020_paper.pdf",
+  "pages": 10,
+  "title_guess": "Fang GraspNet-1Billion A Large-Scale Benchmark for General Object Grasping CVPR 2020 paper",
+  "year_candidates": [],
+  "doi": null,
+  "arxiv": "1807.00652",
+  "theme_suggest": "01_灵巧手抓取规划",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 15,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-047.txt"
+ },
+ {
+  "id": "KB-048",
+  "file": "Fast dextrous re-grasping with optimal contact forces and contact sensor-based impedance control.pdf",
+  "pages": 6,
+  "title_guess": "Fast dextrous re-grasping with optimal contact forces and contact sensor-based impedance control",
+  "year_candidates": [
+   2026,
+   2001,
+   1996,
+   1997,
+   1998,
+   1990
+  ],
+  "doi": null,
+  "arxiv": null,
+  "theme_suggest": "03_阻抗与柔顺控制",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 15,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 1,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 1
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-048.txt"
+ },
+ {
+  "id": "KB-049",
+  "file": "Finger contact sensing and the application in dexterous hand manipulation(1).pdf",
+  "pages": 17,
+  "title_guess": "Finger contact sensing and the application in dexterous hand manipulation(1)",
+  "year_candidates": [
+   2015,
+   1993,
+   2011,
+   2013,
+   2004,
+   2006
+  ],
+  "doi": "10.1007/s10514-015-9425-4",
+  "arxiv": null,
+  "theme_suggest": "02_触觉感知与传感",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 1,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 1,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-049.txt"
+ },
+ {
+  "id": "KB-050",
+  "file": "FingerVision Tactile Sensor Design and Slip Detection Using Convolutional LSTM Network.pdf",
+  "pages": 7,
+  "title_guess": "FingerVision Tactile Sensor Design and Slip Detection Using Convolutional LSTM Network",
+  "year_candidates": [
+   2009,
+   2017,
+   2016,
+   2004,
+   2018,
+   2015
+  ],
+  "doi": "10.1109/TRO.2009",
+  "arxiv": "1810.02653",
+  "theme_suggest": "02_触觉感知与传感",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 26,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 6,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 1
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-050.txt"
+ },
+ {
+  "id": "KB-051",
+  "file": "Force Estimation and Slip Detection for Grip Control.pdf",
+  "pages": 7,
+  "title_guess": "Force Estimation and Slip Detection for Grip Control",
+  "year_candidates": [
+   2009,
+   2014,
+   2000,
+   2012,
+   2008,
+   1989
+  ],
+  "doi": null,
+  "arxiv": null,
+  "theme_suggest": "06_滑移检测与抓取稳定",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 4,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 7,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-051.txt"
+ },
+ {
+  "id": "KB-052",
+  "file": "Force_Feedback_Control_For_Dexterous_Robotic_Hands_Using_Conditional_Postural_Synergies.pdf",
+  "pages": 7,
+  "title_guess": "Force Feedback Control For Dexterous Robotic Hands Using Conditional Postural Synergies",
+  "year_candidates": [
+   2015,
+   2020,
+   2009,
+   2021,
+   2011,
+   2016
+  ],
+  "doi": null,
+  "arxiv": "2303.06170",
+  "theme_suggest": "10_综述与展望",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-052.txt"
+ },
+ {
+  "id": "KB-053",
+  "file": "Forceposition control with bounded actions.pdf",
+  "pages": 14,
+  "title_guess": "Forceposition control with bounded actions",
+  "year_candidates": [
+   2021,
+   2022
+  ],
+  "doi": "10.1016/j.bbe.2021.12.006",
+  "arxiv": null,
+  "theme_suggest": "03_阻抗与柔顺控制",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 3,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-053.txt"
+ },
+ {
+  "id": "KB-054",
+  "file": "FunGrasp.pdf",
+  "pages": 8,
+  "title_guess": "FunGrasp",
+  "year_candidates": [
+   2024,
+   2023,
+   2022,
+   2021,
+   2018,
+   2000
+  ],
+  "doi": null,
+  "arxiv": "2411.16755",
+  "theme_suggest": "08_学习与强化学习",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 3,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-054.txt"
+ },
+ {
+  "id": "KB-055",
+  "file": "GelSlim_A_High-Resolution_Compact_Robust_and_Calibrated_Tactile-sensing_Finger.pdf",
+  "pages": 8,
+  "title_guess": "GelSlim A High-Resolution Compact Robust and Calibrated Tactile-sensing Finger",
+  "year_candidates": [
+   2026,
+   2018,
+   2017,
+   2009,
+   2016,
+   2015
+  ],
+  "doi": null,
+  "arxiv": null,
+  "theme_suggest": "02_触觉感知与传感",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 5,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-055.txt"
+ },
+ {
+  "id": "KB-056",
+  "file": "GelSphere_An Omnidirectional Rolling Vision-Based Tactile Sensor for Online 3D Reconstruction and Normal Force Estimation.pdf",
+  "pages": 8,
+  "title_guess": "GelSphere An Omnidirectional Rolling Vision-Based Tactile Sensor for Online 3D Reconstruction and Normal Force Estimation",
+  "year_candidates": [
+   2023,
+   2022,
+   2024,
+   2025,
+   2021,
+   2018
+  ],
+  "doi": null,
+  "arxiv": "2603.14104",
+  "theme_suggest": "02_触觉感知与传感",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 30,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-056.txt"
+ },
+ {
+  "id": "KB-057",
+  "file": "Geometric design optimization of an under-actuated tendon-driven robotic gripper.pdf",
+  "pages": 10,
+  "title_guess": "Geometric design optimization of an under-actuated tendon-driven robotic gripper",
+  "year_candidates": [
+   2018,
+   2017
+  ],
+  "doi": "10.1016/j.rcim.2017.09.012",
+  "arxiv": null,
+  "theme_suggest": "04_绳驱机构与结构设计",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 15,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-057.txt"
+ },
+ {
+  "id": "KB-058",
+  "file": "Grasp Force Optimization as a Bilinear Matrix Inequality Problem_ A Deep Learning Approach.pdf",
+  "pages": 10,
+  "title_guess": "Grasp Force Optimization as a Bilinear Matrix Inequality Problem A Deep Learning Approach",
+  "year_candidates": [
+   2025
+  ],
+  "doi": "10.1007/978-981-96-1158-4_25",
+  "arxiv": null,
+  "theme_suggest": "05_抓取力优化与力封闭",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 1,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 9,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-058.txt"
+ },
+ {
+  "id": "KB-059",
+  "file": "Grasp Prediction based on Local Finger Motion Dynamics.pdf",
+  "pages": 10,
+  "title_guess": "Grasp Prediction based on Local Finger Motion Dynamics",
+  "year_candidates": [
+   2025
+  ],
+  "doi": null,
+  "arxiv": "2506.10818",
+  "theme_suggest": "01_灵巧手抓取规划",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 6,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-059.txt"
+ },
+ {
+  "id": "KB-060",
+  "file": "Grasp Stability Prediction for a Dexterous Robotic Hand Combining Depth Vision and Haptic Bayesian Exploration.pdf",
+  "pages": 11,
+  "title_guess": "Grasp Stability Prediction for a Dexterous Robotic Hand Combining Depth Vision and Haptic Bayesian Exploration",
+  "year_candidates": [
+   2021,
+   2019,
+   2020,
+   2015,
+   2017,
+   2018
+  ],
+  "doi": "10.3389/frobt.2021.703869",
+  "arxiv": "1905.06658",
+  "theme_suggest": "01_灵巧手抓取规划",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 9,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-060.txt"
+ },
+ {
+  "id": "KB-061",
+  "file": "Grasp stability prediction with time series data based on STFT and LSTM.pdf",
+  "pages": 7,
+  "title_guess": "Grasp stability prediction with time series data based on STFT and LSTM",
+  "year_candidates": [
+   2026,
+   2015,
+   2014,
+   2019,
+   2023,
+   2018
+  ],
+  "doi": "10.1109/ICARM58088.2023.10218771",
+  "arxiv": "1810.02653",
+  "theme_suggest": "01_灵巧手抓取规划",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 12,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-061.txt"
+ },
+ {
+  "id": "KB-062",
+  "file": "GraspNet.pdf",
+  "pages": 7,
+  "title_guess": "GraspNet",
+  "year_candidates": [
+   2018,
+   2017,
+   2019,
+   2015,
+   2016,
+   2011
+  ],
+  "doi": null,
+  "arxiv": "1912.13470",
+  "theme_suggest": "01_灵巧手抓取规划",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 12,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-062.txt"
+ },
+ {
+  "id": "KB-063",
+  "file": "GraspQP.pdf",
+  "pages": 20,
+  "title_guess": "GraspQP",
+  "year_candidates": [
+   2025
+  ],
+  "doi": null,
+  "arxiv": "2508.15002",
+  "theme_suggest": "01_灵巧手抓取规划",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 2,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-063.txt"
+ },
+ {
+  "id": "KB-064",
+  "file": "Grasping Force Control of Multi-Fingered Robotic Hands through Tactile Sensing for Object Stabilization.pdf",
+  "pages": 21,
+  "title_guess": "Grasping Force Control of Multi-Fingered Robotic Hands through Tactile Sensing for Object Stabilization",
+  "year_candidates": [
+   2020,
+   2019
+  ],
+  "doi": "10.3390/s20041050",
+  "arxiv": "1810.02653",
+  "theme_suggest": "02_触觉感知与传感",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 21,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 21,
+   "06_滑移检测与抓取稳定": 1,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-064.txt"
+ },
+ {
+  "id": "KB-065",
+  "file": "Grasping Force Optimization Approaches for Anthropomorphic Hands.pdf",
+  "pages": 10,
+  "title_guess": "Grasping Force Optimization Approaches for Anthropomorphic Hands",
+  "year_candidates": [
+   2018,
+   2026,
+   2017
+  ],
+  "doi": "10.1115/1.4038684]",
+  "arxiv": null,
+  "theme_suggest": "05_抓取力优化与力封闭",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 1,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 1,
+   "05_抓取力优化与力封闭": 18,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-065.txt"
+ },
+ {
+  "id": "KB-066",
+  "file": "Grasping Force Optimization for Multi-Fingered Robot Hands.pdf",
+  "pages": 6,
+  "title_guess": "Grasping Force Optimization for Multi-Fingered Robot Hands",
+  "year_candidates": [
+   2026,
+   1990,
+   1987,
+   1992,
+   1988,
+   1986
+  ],
+  "doi": null,
+  "arxiv": null,
+  "theme_suggest": "05_抓取力优化与力封闭",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 21,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-066.txt"
+ },
+ {
+  "id": "KB-067",
+  "file": "Grasping in the Dark.pdf",
+  "pages": 7,
+  "title_guess": "Grasping in the Dark",
+  "year_candidates": [
+   2019,
+   2020,
+   2016,
+   2018,
+   2021,
+   2017
+  ],
+  "doi": "10.1038/s41598-018-38277-w",
+  "arxiv": "2011.00712",
+  "theme_suggest": "10_综述与展望",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-067.txt"
+ },
+ {
+  "id": "KB-068",
+  "file": "GraspingForceOptimizationAlgorithmofSoftMulti-fingeredHandBasedonSafetyMarginDetection.pdf",
+  "pages": 9,
+  "title_guess": "GraspingForceOptimizationAlgorithmofSoftMulti-fingeredHandBasedonSafetyMarginDetection",
+  "year_candidates": [
+   2017,
+   2014,
+   2013,
+   2016
+  ],
+  "doi": "10.13973/j.cnki.robot.2017.0844",
+  "arxiv": null,
+  "theme_suggest": "05_抓取力优化与力封闭",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 5,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-068.txt"
+ },
+ {
+  "id": "KB-069",
+  "file": "Grip Stabilization through Independent.pdf",
+  "pages": 18,
+  "title_guess": "Grip Stabilization through Independent",
+  "year_candidates": [
+   2020
+  ],
+  "doi": "10.3390/s20061748",
+  "arxiv": "1910.07113",
+  "theme_suggest": "01_灵巧手抓取规划",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 1,
+   "02_触觉感知与传感": 1,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-069.txt"
+ },
+ {
+  "id": "KB-070",
+  "file": "HRI hand.pdf",
+  "pages": 14,
+  "title_guess": "HRI hand",
+  "year_candidates": [
+   2020,
+   2019
+  ],
+  "doi": "10.17605/OSF.IO/SFPB2",
+  "arxiv": null,
+  "theme_suggest": "04_绳驱机构与结构设计",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 3,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-070.txt"
+ },
+ {
+  "id": "KB-071",
+  "file": "Haptic-Based_and_SE3-Aware_Object_Insertion_Using_Compliant_Hands.pdf",
+  "pages": 8,
+  "title_guess": "Haptic-Based and SE3-Aware Object Insertion Using Compliant Hands",
+  "year_candidates": [
+   2022,
+   2026,
+   2019,
+   2023,
+   2020,
+   2018
+  ],
+  "doi": "10.1109/LRA.2022.3224670",
+  "arxiv": "1912.00260",
+  "theme_suggest": "07_装配与操作任务",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 1,
+   "04_绳驱机构与结构设计": 1,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 24,
+   "08_学习与强化学习": 2,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-071.txt"
+ },
+ {
+  "id": "KB-072",
+  "file": "High Speed and High Sensitivity Slip Sensor for Dexterous Grasping.pdf",
+  "pages": 13,
+  "title_guess": "High Speed and High Sensitivity Slip Sensor for Dexterous Grasping",
+  "year_candidates": [
+   2012,
+   2011
+  ],
+  "doi": "10.20965/jrm.2012.p0298",
+  "arxiv": null,
+  "theme_suggest": "02_触觉感知与传感",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 1,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 1,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-072.txt"
+ },
+ {
+  "id": "KB-073",
+  "file": "Human-taught sensory-control synergy for universal robotic grasping.pdf",
+  "pages": 14,
+  "title_guess": "Human-taught sensory-control synergy for universal robotic grasping",
+  "year_candidates": [
+   2026,
+   2025
+  ],
+  "doi": "10.1093/nsr/nwaf583",
+  "arxiv": null,
+  "theme_suggest": "09_视触融合与VLA",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 2,
+   "10_综述与展望": 1
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-073.txt"
+ },
+ {
+  "id": "KB-074",
+  "file": "Humanoid Five-Digit Robotic Grasping via Multi-Agent Reinforcement Learning With Potential-Guided Optimization and Weight Scheduling.pdf",
+  "pages": 16,
+  "title_guess": "Humanoid Five-Digit Robotic Grasping via Multi-Agent Reinforcement Learning With Potential-Guided Optimization and Weight Scheduling",
+  "year_candidates": [
+   2026,
+   2025
+  ],
+  "doi": "10.1109/TASE.2026.3672621",
+  "arxiv": "1509.02971",
+  "theme_suggest": "08_学习与强化学习",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 6,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 12,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-074.txt"
+ },
+ {
+  "id": "KB-075",
+  "file": "Hybrid Closed-Loop Control of Robotic Hand Regrasping .pdf",
+  "pages": 6,
+  "title_guess": "Hybrid Closed-Loop Control of Robotic Hand Regrasping",
+  "year_candidates": [
+   2026,
+   1998,
+   1996,
+   1995,
+   1997,
+   1986
+  ],
+  "doi": null,
+  "arxiv": null,
+  "theme_suggest": "03_阻抗与柔顺控制",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 1,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-075.txt"
+ },
+ {
+  "id": "KB-076",
+  "file": "In-Hand Object-Dynamics Inference using Tactile Fingertips.pdf",
+  "pages": 14,
+  "title_guess": "In-Hand Object-Dynamics Inference using Tactile Fingertips",
+  "year_candidates": [
+   2019,
+   2003,
+   2021
+  ],
+  "doi": null,
+  "arxiv": "2003.13165",
+  "theme_suggest": "10_综述与展望",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-076.txt"
+ },
+ {
+  "id": "KB-077",
+  "file": "In-hand manipulation with synergistic actuated robotic hands.pdf",
+  "pages": 8,
+  "title_guess": "In-hand manipulation with synergistic actuated robotic hands",
+  "year_candidates": [
+   2026,
+   2020,
+   2022,
+   2023,
+   2018,
+   2016
+  ],
+  "doi": "10.1109/HUMANOIDS57100.2023.10374563",
+  "arxiv": "2201.11503",
+  "theme_suggest": "04_绳驱机构与结构设计",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 1,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-077.txt"
+ },
+ {
+  "id": "KB-078",
+  "file": "Interactive imitation learning for dexterous robotic manipulation.pdf",
+  "pages": 20,
+  "title_guess": "Interactive imitation learning for dexterous robotic manipulation",
+  "year_candidates": [
+   2024,
+   2025,
+   2023,
+   2022,
+   2018,
+   2021
+  ],
+  "doi": "10.3389/frobt.2025.1682437",
+  "arxiv": "2212.06817",
+  "theme_suggest": "08_学习与强化学习",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 13,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 4
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-078.txt"
+ },
+ {
+  "id": "KB-079",
+  "file": "Just Add Force for Contact-Rich Robot Policies.pdf",
+  "pages": 10,
+  "title_guess": "Just Add Force for Contact-Rich Robot Policies",
+  "year_candidates": [
+   2024,
+   2023,
+   2022,
+   2019,
+   2018,
+   2021
+  ],
+  "doi": "10.1109/TCST.2018.2821651",
+  "arxiv": "2410.13124",
+  "theme_suggest": "08_学习与强化学习",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 1,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-079.txt"
+ },
+ {
+  "id": "KB-080",
+  "file": "Kinetostatic_analysis_of_underactuated_fingers.pdf",
+  "pages": 11,
+  "title_guess": "Kinetostatic analysis of underactuated fingers",
+  "year_candidates": [
+   2026,
+   2004,
+   2002,
+   2003
+  ],
+  "doi": "10.1109/TRA.2004.824641",
+  "arxiv": null,
+  "theme_suggest": "04_绳驱机构与结构设计",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 22,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-080.txt"
+ },
+ {
+  "id": "KB-081",
+  "file": "LeTac-MPC.pdf",
+  "pages": 20,
+  "title_guess": "LeTac-MPC",
+  "year_candidates": [
+   2024
+  ],
+  "doi": null,
+  "arxiv": "2403.04934",
+  "theme_suggest": "02_触觉感知与传感",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 1,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 1,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-081.txt"
+ },
+ {
+  "id": "KB-082",
+  "file": "Learned Slip-Detection-Severity Framework using Tactile Deformation Field Feedback for Robotic Manipulation.pdf",
+  "pages": 8,
+  "title_guess": "Learned Slip-Detection-Severity Framework using Tactile Deformation Field Feedback for Robotic Manipulation",
+  "year_candidates": [
+   2018,
+   2023,
+   2021,
+   2017,
+   2022,
+   2020
+  ],
+  "doi": null,
+  "arxiv": "2411.07442",
+  "theme_suggest": "06_滑移检测与抓取稳定",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 3,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 4,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-082.txt"
+ },
+ {
+  "id": "KB-083",
+  "file": "Learning Complex Dexterous Manipulation with.pdf",
+  "pages": 9,
+  "title_guess": "Learning Complex Dexterous Manipulation with",
+  "year_candidates": [
+   2018,
+   1998,
+   2012,
+   2017,
+   2003
+  ],
+  "doi": null,
+  "arxiv": "1709.10087",
+  "theme_suggest": "08_学习与强化学习",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 2,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-083.txt"
+ },
+ {
+  "id": "KB-084",
+  "file": "Learning Dexterous In-Hand Manipulation.pdf",
+  "pages": 27,
+  "title_guess": "Learning Dexterous In-Hand Manipulation",
+  "year_candidates": [
+   2019,
+   2005
+  ],
+  "doi": null,
+  "arxiv": "1808.00177",
+  "theme_suggest": "08_学习与强化学习",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 2,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-084.txt"
+ },
+ {
+  "id": "KB-085",
+  "file": "Learning Haptic-based Object Pose Estimation.pdf",
+  "pages": 12,
+  "title_guess": "Learning Haptic-based Object Pose Estimation",
+  "year_candidates": [
+   2022
+  ],
+  "doi": null,
+  "arxiv": "2207.02843",
+  "theme_suggest": "04_绳驱机构与结构设计",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 2,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 4,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-085.txt"
+ },
+ {
+  "id": "KB-086",
+  "file": "Learning Reactive Dexterous Grasping via Hierarchical Task-Space RL Planning and Joint-Space QP Control.pdf",
+  "pages": 18,
+  "title_guess": "Learning Reactive Dexterous Grasping via Hierarchical Task-Space RL Planning and Joint-Space QP Control",
+  "year_candidates": [
+   2026
+  ],
+  "doi": null,
+  "arxiv": "2605.03363",
+  "theme_suggest": "01_灵巧手抓取规划",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 2,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 1,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-086.txt"
+ },
+ {
+  "id": "KB-087",
+  "file": "Learning Stable Robot Grasping with.pdf",
+  "pages": 6,
+  "title_guess": "Learning Stable Robot Grasping with",
+  "year_candidates": [
+   2023,
+   2021,
+   2020,
+   2024,
+   2017,
+   2022
+  ],
+  "doi": null,
+  "arxiv": "2407.21172",
+  "theme_suggest": "01_灵巧手抓取规划",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 1,
+   "02_触觉感知与传感": 1,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-087.txt"
+ },
+ {
+  "id": "KB-088",
+  "file": "Learning incipient slip with GelSight sensors.pdf",
+  "pages": 7,
+  "title_guess": "Learning incipient slip with GelSight sensors",
+  "year_candidates": [
+   2016,
+   2015,
+   2026,
+   2024,
+   2020,
+   2009
+  ],
+  "doi": "10.1109/IROS58592.2024.10801324",
+  "arxiv": "2103.13460",
+  "theme_suggest": "06_滑移检测与抓取稳定",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 7,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 9,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-088.txt"
+ },
+ {
+  "id": "KB-089",
+  "file": "Learning to Detect Slip through Tactile Estimation of the Contact Force Field and its Entropy.pdf",
+  "pages": 8,
+  "title_guess": "Learning to Detect Slip through Tactile Estimation of the Contact Force Field and its Entropy",
+  "year_candidates": [
+   2018,
+   2022,
+   2015,
+   2017,
+   1989,
+   2004
+  ],
+  "doi": null,
+  "arxiv": "2303.00935",
+  "theme_suggest": "02_触觉感知与传感",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 3,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 1,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-089.txt"
+ },
+ {
+  "id": "KB-090",
+  "file": "Learning to Detect Slip with Barometric Tactile Sensors and a Temporal Convolutional Neural Network.pdf",
+  "pages": 7,
+  "title_guess": "Learning to Detect Slip with Barometric Tactile Sensors and a Temporal Convolutional Neural Network",
+  "year_candidates": [
+   2020,
+   2016,
+   2017,
+   2014,
+   2018,
+   2019
+  ],
+  "doi": null,
+  "arxiv": "2202.09549",
+  "theme_suggest": "02_触觉感知与传感",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 13,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-090.txt"
+ },
+ {
+  "id": "KB-091",
+  "file": "Learning-Based Slip Detection for Dexterous Manipulation Using GelStereo Sensing.pdf",
+  "pages": 10,
+  "title_guess": "Learning-Based Slip Detection for Dexterous Manipulation Using GelStereo Sensing",
+  "year_candidates": [
+   2026,
+   2024,
+   2023,
+   2021,
+   2022
+  ],
+  "doi": "10.1109/TNNLS.2023.3270579",
+  "arxiv": "1910.02860",
+  "theme_suggest": "06_滑移检测与抓取稳定",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 3,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 18,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 1
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-091.txt"
+ },
+ {
+  "id": "KB-092",
+  "file": "Learning_to_Detect_Slip_with_Barometric_Tactile_Sensors_and_a_Temporal_Convolutional_Neural_Network.pdf",
+  "pages": 7,
+  "title_guess": "Learning to Detect Slip with Barometric Tactile Sensors and a Temporal Convolutional Neural Network",
+  "year_candidates": [
+   2020,
+   2026,
+   2022,
+   2016,
+   2017,
+   2014
+  ],
+  "doi": "10.1109/ICRA46639.2022.9811592",
+  "arxiv": "1803.01271",
+  "theme_suggest": "02_触觉感知与传感",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 9,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-092.txt"
+ },
+ {
+  "id": "KB-093",
+  "file": "Learning_to_estimate_incipient_slip_with_tactile_sensing_to_gently_grasp_objects.pdf",
+  "pages": 7,
+  "title_guess": "Learning to estimate incipient slip with tactile sensing to gently grasp objects",
+  "year_candidates": [
+   2026,
+   2024,
+   2022,
+   2019,
+   2012,
+   2021
+  ],
+  "doi": "10.1109/ICRA57147.2024.10611517",
+  "arxiv": "2106.13731",
+  "theme_suggest": "02_触觉感知与传感",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 7,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 6,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-093.txt"
+ },
+ {
+  "id": "KB-094",
+  "file": "Local connection reinforcement learning method for efficient robotic peg-in-hole assembly.pdf",
+  "pages": 12,
+  "title_guess": "Local connection reinforcement learning method for efficient robotic peg-in-hole assembly",
+  "year_candidates": [
+   2024,
+   2018,
+   2021,
+   2020,
+   2019,
+   2022
+  ],
+  "doi": "10.1016/j.engappai.2024.108520",
+  "arxiv": null,
+  "theme_suggest": "07_装配与操作任务",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 30,
+   "08_学习与强化学习": 15,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-094.txt"
+ },
+ {
+  "id": "KB-095",
+  "file": "MNIH_2015_Nature_Human-level Control through Deep Reinforcement Learning.pdf",
+  "pages": 13,
+  "title_guess": "MNIH 2015 Nature Human-level Control through Deep Reinforcement Learning",
+  "year_candidates": [
+   2015,
+   2009,
+   2005,
+   2010,
+   2012,
+   1998
+  ],
+  "doi": "10.1038/nature14236",
+  "arxiv": null,
+  "theme_suggest": "08_学习与强化学习",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 16,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-095.txt"
+ },
+ {
+  "id": "KB-096",
+  "file": "Maintaining stable grasps during highly dynamic robot trajectories.pdf",
+  "pages": 7,
+  "title_guess": "Maintaining stable grasps during highly dynamic robot trajectories",
+  "year_candidates": [
+   2026,
+   2020,
+   2018,
+   2012,
+   2015,
+   2010
+  ],
+  "doi": "10.1109/IROS45743.2020.9341575",
+  "arxiv": null,
+  "theme_suggest": "10_综述与展望",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-096.txt"
+ },
+ {
+  "id": "KB-097",
+  "file": "Modulation of Grip Force with Load Force during Point-to-Point Arm Movements.pdf",
+  "pages": 13,
+  "title_guess": "Modulation of Grip Force with Load Force during Point-to-Point Arm Movements",
+  "year_candidates": [],
+  "doi": null,
+  "arxiv": null,
+  "theme_suggest": "10_综述与展望",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": true,
+  "text_path": ".kb/text/KB-097.txt"
+ },
+ {
+  "id": "KB-098",
+  "file": "Multi-Fingered In-Hand Manipulation with Various Object Properties Using Graph Convolutional Networks and Distributed Tactile Sensors.pdf",
+  "pages": 8,
+  "title_guess": "Multi-Fingered In-Hand Manipulation with Various Object Properties Using Graph Convolutional Networks and Distributed Tactile Sensors",
+  "year_candidates": [
+   2019,
+   2020,
+   2021,
+   2015,
+   2018,
+   2017
+  ],
+  "doi": null,
+  "arxiv": "2205.04169",
+  "theme_suggest": "02_触觉感知与传感",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 10,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-098.txt"
+ },
+ {
+  "id": "KB-099",
+  "file": "Multi-Goal Dexterous Hand Manipulation using.pdf",
+  "pages": 9,
+  "title_guess": "Multi-Goal Dexterous Hand Manipulation using",
+  "year_candidates": [
+   2025
+  ],
+  "doi": null,
+  "arxiv": "2504.21585",
+  "theme_suggest": "08_学习与强化学习",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 1,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 2,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-099.txt"
+ },
+ {
+  "id": "KB-100",
+  "file": "Multi-fingered grasping force optimization based on generalized penalty-function concepts.pdf",
+  "pages": 10,
+  "title_guess": "Multi-fingered grasping force optimization based on generalized penalty-function concepts",
+  "year_candidates": [
+   2021,
+   2020,
+   2013
+  ],
+  "doi": "10.1016/j.robot.2020.103672",
+  "arxiv": null,
+  "theme_suggest": "05_抓取力优化与力封闭",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 24,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-100.txt"
+ },
+ {
+  "id": "KB-101",
+  "file": "Multi-fingered grasping force optimization.pdf",
+  "pages": 10,
+  "title_guess": "Multi-fingered grasping force optimization",
+  "year_candidates": [
+   2021,
+   2020,
+   2013
+  ],
+  "doi": "10.1016/j.robot.2020.103672",
+  "arxiv": null,
+  "theme_suggest": "05_抓取力优化与力封闭",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 24,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-101.txt"
+ },
+ {
+  "id": "KB-102",
+  "file": "Multi-fingered regrasping using on-line grasping force optimization.pdf",
+  "pages": 6,
+  "title_guess": "Multi-fingered regrasping using on-line grasping force optimization",
+  "year_candidates": [
+   2026,
+   1997,
+   1996,
+   1995,
+   1993,
+   1990
+  ],
+  "doi": null,
+  "arxiv": null,
+  "theme_suggest": "05_抓取力优化与力封闭",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 1,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 27,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-102.txt"
+ },
+ {
+  "id": "KB-103",
+  "file": "N0-VTLA.pdf",
+  "pages": 29,
+  "title_guess": "N0-VTLA",
+  "year_candidates": [
+   2026
+  ],
+  "doi": null,
+  "arxiv": "2607.23782",
+  "theme_suggest": "08_学习与强化学习",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 6,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-103.txt"
+ },
+ {
+  "id": "KB-104",
+  "file": "Non-Parametric Self-Identification and Model Predictive Control of.pdf",
+  "pages": 8,
+  "title_guess": "Non-Parametric Self-Identification and Model Predictive Control of",
+  "year_candidates": [
+   2016,
+   2017,
+   2018,
+   2015,
+   2019,
+   2011
+  ],
+  "doi": null,
+  "arxiv": "2307.10033",
+  "theme_suggest": "04_绳驱机构与结构设计",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 1,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-104.txt"
+ },
+ {
+  "id": "KB-105",
+  "file": "ON THE FORM-CLOSURE PROPERTY OF ROBOTIC.pdf",
+  "pages": 6,
+  "title_guess": "ON THE FORM-CLOSURE PROPERTY OF ROBOTIC",
+  "year_candidates": [
+   1993,
+   1986,
+   1992,
+   1985,
+   1988,
+   1989
+  ],
+  "doi": null,
+  "arxiv": null,
+  "theme_suggest": "10_综述与展望",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-105.txt"
+ },
+ {
+  "id": "KB-106",
+  "file": "Object-Centric Dexterous Manipulation from Human Motion Data.pdf",
+  "pages": 20,
+  "title_guess": "Object-Centric Dexterous Manipulation from Human Motion Data",
+  "year_candidates": [
+   2024
+  ],
+  "doi": null,
+  "arxiv": "2411.04005",
+  "theme_suggest": "08_学习与强化学习",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 2,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-106.txt"
+ },
+ {
+  "id": "KB-107",
+  "file": "OmniVTLA.pdf",
+  "pages": 17,
+  "title_guess": "OmniVTLA",
+  "year_candidates": [
+   2025,
+   2024,
+   2023,
+   2026,
+   2018,
+   2020
+  ],
+  "doi": null,
+  "arxiv": "2508.08706",
+  "theme_suggest": "09_视触融合与VLA",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 1,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 5,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-107.txt"
+ },
+ {
+  "id": "KB-108",
+  "file": "On Geometric Algorithms for Real-Time Grasping.pdf",
+  "pages": 17,
+  "title_guess": "On Geometric Algorithms for Real-Time Grasping",
+  "year_candidates": [
+   2004,
+   2002,
+   2003
+  ],
+  "doi": "10.1109/TCST.2004.833630",
+  "arxiv": null,
+  "theme_suggest": "05_抓取力优化与力封闭",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 5,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-108.txt"
+ },
+ {
+  "id": "KB-109",
+  "file": "On the Closure Properties.pdf",
+  "pages": 25,
+  "title_guess": "On the Closure Properties",
+  "year_candidates": [
+   1986,
+   1993,
+   1992,
+   1988,
+   1989,
+   1990
+  ],
+  "doi": null,
+  "arxiv": null,
+  "theme_suggest": "04_绳驱机构与结构设计",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 1,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-109.txt"
+ },
+ {
+  "id": "KB-110",
+  "file": "Peg-in-Hole Assembly With Dual-Arm Robotand Dexterous Robot Hands.pdf",
+  "pages": 8,
+  "title_guess": "Peg-in-Hole Assembly With Dual-Arm Robotand Dexterous Robot Hands",
+  "year_candidates": [
+   2022,
+   2026,
+   2017,
+   2021,
+   2011,
+   2016
+  ],
+  "doi": "10.1109/LRA.2022.3187497",
+  "arxiv": null,
+  "theme_suggest": "07_装配与操作任务",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 54,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-110.txt"
+ },
+ {
+  "id": "KB-111",
+  "file": "Planning Optimal Grasps.pdf",
+  "pages": 6,
+  "title_guess": "Planning Optimal Grasps",
+  "year_candidates": [
+   1986,
+   1987,
+   1985,
+   1989,
+   1990
+  ],
+  "doi": null,
+  "arxiv": null,
+  "theme_suggest": "10_综述与展望",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-111.txt"
+ },
+ {
+  "id": "KB-112",
+  "file": "Progressive Transfer Learning for Dexterous.pdf",
+  "pages": 12,
+  "title_guess": "Progressive Transfer Learning for Dexterous",
+  "year_candidates": [
+   2023
+  ],
+  "doi": null,
+  "arxiv": "2304.09526",
+  "theme_suggest": "10_综述与展望",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-112.txt"
+ },
+ {
+  "id": "KB-113",
+  "file": "PyTouch A Machine Learning Library for Touch Processing.pdf",
+  "pages": 7,
+  "title_guess": "PyTouch A Machine Learning Library for Touch Processing",
+  "year_candidates": [
+   2019,
+   2015,
+   2020,
+   2000,
+   2016,
+   2014
+  ],
+  "doi": null,
+  "arxiv": "2105.12791",
+  "theme_suggest": "02_触觉感知与传感",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 3,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-113.txt"
+ },
+ {
+  "id": "KB-114",
+  "file": "Quadratic Programming for Multirobot and Task-Space Force Control(1).pdf",
+  "pages": 14,
+  "title_guess": "Quadratic Programming for Multirobot and Task-Space Force Control(1)",
+  "year_candidates": [
+   2018,
+   2019
+  ],
+  "doi": "10.1109/TRO.2018.2876782",
+  "arxiv": null,
+  "theme_suggest": "10_综述与展望",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-114.txt"
+ },
+ {
+  "id": "KB-115",
+  "file": "ROBOPIANIST.pdf",
+  "pages": 19,
+  "title_guess": "ROBOPIANIST",
+  "year_candidates": [
+   2023
+  ],
+  "doi": null,
+  "arxiv": "2304.04150",
+  "theme_suggest": "08_学习与强化学习",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 2,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-115.txt"
+ },
+ {
+  "id": "KB-116",
+  "file": "Reactive Slip Control in Multifingered Grasping.pdf",
+  "pages": 8,
+  "title_guess": "Reactive Slip Control in Multifingered Grasping",
+  "year_candidates": [
+   2022,
+   2020,
+   2021,
+   2016,
+   2023,
+   2024
+  ],
+  "doi": null,
+  "arxiv": "2602.16127",
+  "theme_suggest": "02_触觉感知与传感",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 1,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 1,
+   "06_滑移检测与抓取稳定": 1,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 1,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-116.txt"
+ },
+ {
+  "id": "KB-117",
+  "file": "Real-Time Force Regulation for Whole-Hand Dexterous Grasping.pdf",
+  "pages": 9,
+  "title_guess": "Real-Time Force Regulation for Whole-Hand Dexterous Grasping",
+  "year_candidates": [
+   2026,
+   2025,
+   2021,
+   2023,
+   2016,
+   2020
+  ],
+  "doi": null,
+  "arxiv": "2609.30082",
+  "theme_suggest": "05_抓取力优化与力封闭",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 1,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-117.txt"
+ },
+ {
+  "id": "KB-118",
+  "file": "Real-time_grasping-force_optimization_for_multifingered_manipulation_theory_and_experiments.pdf",
+  "pages": 13,
+  "title_guess": "Real-time grasping-force optimization for multifingered manipulation theory and experiments",
+  "year_candidates": [
+   2026,
+   2004,
+   2002,
+   2003
+  ],
+  "doi": "10.1109/TMECH.2004.823879",
+  "arxiv": null,
+  "theme_suggest": "05_抓取力优化与力封闭",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 10,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 1
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-118.txt"
+ },
+ {
+  "id": "KB-119",
+  "file": "Recursive Algorithms for Real-Time Grasping Force Optimization.pdf",
+  "pages": 6,
+  "title_guess": "Recursive Algorithms for Real-Time Grasping Force Optimization",
+  "year_candidates": [
+   2026,
+   1997,
+   1996,
+   1990,
+   1989,
+   1994
+  ],
+  "doi": null,
+  "arxiv": null,
+  "theme_suggest": "05_抓取力优化与力封闭",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 1,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 21,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-119.txt"
+ },
+ {
+  "id": "KB-120",
+  "file": "Reinforcement Learning Grasping with Force Feedback from Modeling of Compliant Fingers.pdf",
+  "pages": 12,
+  "title_guess": "Reinforcement Learning Grasping with Force Feedback from Modeling of Compliant Fingers",
+  "year_candidates": [
+   2026,
+   2024,
+   2025
+  ],
+  "doi": "10.1109/TMECH.2024.3450269",
+  "arxiv": "1707.06347",
+  "theme_suggest": "08_学习与强化学习",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 1,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 9,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-120.txt"
+ },
+ {
+  "id": "KB-121",
+  "file": "Resolution_Robot_Tactile_Sensors_for_Estimating_Geometry_and_Force.pdf",
+  "pages": 21,
+  "title_guess": "Resolution Robot Tactile Sensors for Estimating Geometry and Force",
+  "year_candidates": [
+   2017,
+   2009
+  ],
+  "doi": "10.3390/s17122762",
+  "arxiv": "1708.00922",
+  "theme_suggest": "02_触觉感知与传感",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 31,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 1,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 1
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-121.txt"
+ },
+ {
+  "id": "KB-122",
+  "file": "Rigidity-Based Multi-Finger Coordination for Precise In-Hand Manipulation of Force-Sensitive Objects.pdf",
+  "pages": 8,
+  "title_guess": "Rigidity-Based Multi-Finger Coordination for Precise In-Hand Manipulation of Force-Sensitive Objects",
+  "year_candidates": [
+   2026,
+   2023,
+   2024,
+   2020,
+   2025,
+   2021
+  ],
+  "doi": "10.1109/LRA.2026.3666396",
+  "arxiv": null,
+  "theme_suggest": "04_绳驱机构与结构设计",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 1,
+   "05_抓取力优化与力封闭": 1,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-122.txt"
+ },
+ {
+  "id": "KB-123",
+  "file": "Robust Adaptive Safe Robotic Grasping with Tactile Sensing.pdf",
+  "pages": 8,
+  "title_guess": "Robust Adaptive Safe Robotic Grasping with Tactile Sensing",
+  "year_candidates": [
+   2024,
+   2023,
+   2004,
+   2020,
+   2021,
+   2017
+  ],
+  "doi": null,
+  "arxiv": "2411.07833",
+  "theme_suggest": "02_触觉感知与传感",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 8,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 3,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-123.txt"
+ },
+ {
+  "id": "KB-124",
+  "file": "Robust Dexterous Grasping of General Objects.pdf",
+  "pages": 16,
+  "title_guess": "Robust Dexterous Grasping of General Objects",
+  "year_candidates": [
+   2025
+  ],
+  "doi": null,
+  "arxiv": "2504.05287",
+  "theme_suggest": "08_学习与强化学习",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 2,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-124.txt"
+ },
+ {
+  "id": "KB-125",
+  "file": "Robust Model-Based In-Hand Manipulation with Integrated Real-Time.pdf",
+  "pages": 5,
+  "title_guess": "Robust Model-Based In-Hand Manipulation with Integrated Real-Time",
+  "year_candidates": [
+   2023,
+   2024,
+   2018,
+   2021,
+   2011,
+   2019
+  ],
+  "doi": null,
+  "arxiv": "2309.01813",
+  "theme_suggest": "10_综述与展望",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 1
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-125.txt"
+ },
+ {
+  "id": "KB-126",
+  "file": "Ruka-v2.pdf",
+  "pages": 20,
+  "title_guess": "Ruka-v2",
+  "year_candidates": [
+   2026
+  ],
+  "doi": null,
+  "arxiv": "2603.26660",
+  "theme_suggest": "04_绳驱机构与结构设计",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 4,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-126.txt"
+ },
+ {
+  "id": "KB-127",
+  "file": "SCT-CNN_A_Spatio-Channel-Temporal_Attention_CNN_for_Grasp_Stability_Prediction.pdf",
+  "pages": 8,
+  "title_guess": "SCT-CNN A Spatio-Channel-Temporal Attention CNN for Grasp Stability Prediction",
+  "year_candidates": [
+   2017,
+   2015,
+   2019,
+   2026,
+   2018,
+   2021
+  ],
+  "doi": "10.1109/ICRA48506.2021.9561397",
+  "arxiv": "1710.05512",
+  "theme_suggest": "01_灵巧手抓取规划",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 6,
+   "02_触觉感知与传感": 1,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-127.txt"
+ },
+ {
+  "id": "KB-128",
+  "file": "Sampling-Based Model Predictive Control for Dexterous.pdf",
+  "pages": 8,
+  "title_guess": "Sampling-Based Model Predictive Control for Dexterous",
+  "year_candidates": [
+   2023,
+   2024,
+   2022,
+   2020,
+   2021,
+   2025
+  ],
+  "doi": null,
+  "arxiv": "2411.06183",
+  "theme_suggest": "04_绳驱机构与结构设计",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 2,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 1,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-128.txt"
+ },
+ {
+  "id": "KB-129",
+  "file": "Self-adaptive control of a two-point contact gripper.pdf",
+  "pages": 19,
+  "title_guess": "Self-adaptive control of a two-point contact gripper",
+  "year_candidates": [
+   2026,
+   2025,
+   2013
+  ],
+  "doi": "10.1016/j.cogr.2025.11.001",
+  "arxiv": null,
+  "theme_suggest": "08_学习与强化学习",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 2,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-129.txt"
+ },
+ {
+  "id": "KB-130",
+  "file": "Shear-Based_Grasp_Control_for_Multifingered_Underactuated_Tactile_Robotic_Hands.pdf",
+  "pages": 16,
+  "title_guess": "Shear-Based Grasp Control for Multifingered Underactuated Tactile Robotic Hands",
+  "year_candidates": [
+   2025,
+   2026,
+   2024
+  ],
+  "doi": "10.1109/TRO.2025.3563046",
+  "arxiv": null,
+  "theme_suggest": "04_绳驱机构与结构设计",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 4,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 9,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-130.txt"
+ },
+ {
+  "id": "KB-131",
+  "file": "Sim-to-Real Reinforcement Learning.pdf",
+  "pages": 12,
+  "title_guess": "Sim-to-Real Reinforcement Learning",
+  "year_candidates": [
+   2000
+  ],
+  "doi": null,
+  "arxiv": "1910.07113",
+  "theme_suggest": "08_学习与强化学习",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 2,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 15,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 1
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-131.txt"
+ },
+ {
+  "id": "KB-132",
+  "file": "Slip Detection and Stable Grasping With Multi-Fingered Robotic Hand Using Deep Learning Approach.pdf",
+  "pages": 14,
+  "title_guess": "Slip Detection and Stable Grasping With Multi-Fingered Robotic Hand Using Deep Learning Approach",
+  "year_candidates": [
+   2026,
+   2021,
+   2020,
+   2016
+  ],
+  "doi": "10.1109/TRO.2020.3031245",
+  "arxiv": "1810.02653",
+  "theme_suggest": "06_滑移检测与抓取稳定",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 2,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 18,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-132.txt"
+ },
+ {
+  "id": "KB-133",
+  "file": "Slip Detection and Stable Grasping With Multi‐Fingered.pdf",
+  "pages": 12,
+  "title_guess": "Slip Detection and Stable Grasping With Multi‐Fingered",
+  "year_candidates": [
+   2025,
+   2026
+  ],
+  "doi": "10.1049/csy2.70036",
+  "arxiv": "1810.02653",
+  "theme_suggest": "06_滑移检测与抓取稳定",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 2,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 1,
+   "06_滑移检测与抓取稳定": 21,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-133.txt"
+ },
+ {
+  "id": "KB-134",
+  "file": "Slip Detection with Combined Tactile and Visual Information.pdf",
+  "pages": 6,
+  "title_guess": "Slip Detection with Combined Tactile and Visual Information",
+  "year_candidates": [
+   2009,
+   2014,
+   2015,
+   2002,
+   2017,
+   2000
+  ],
+  "doi": null,
+  "arxiv": "1802.10153",
+  "theme_suggest": "06_滑移检测与抓取稳定",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 3,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 1,
+   "06_滑移检测与抓取稳定": 9,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-134.txt"
+ },
+ {
+  "id": "KB-135",
+  "file": "SoftGrasp.pdf",
+  "pages": 16,
+  "title_guess": "SoftGrasp",
+  "year_candidates": [
+   2025,
+   2024
+  ],
+  "doi": "10.1016/j.birob.2025.100217",
+  "arxiv": null,
+  "theme_suggest": "09_视触融合与VLA",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 1,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 3,
+   "09_视触融合与VLA": 5,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-135.txt"
+ },
+ {
+  "id": "KB-136",
+  "file": "Solving Rubik's Cube with a Robot Hand.pdf",
+  "pages": 51,
+  "title_guess": "Solving Rubik's Cube with a Robot Hand",
+  "year_candidates": [
+   2019
+  ],
+  "doi": null,
+  "arxiv": "1910.07113",
+  "theme_suggest": "08_学习与强化学习",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 1,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-136.txt"
+ },
+ {
+  "id": "KB-137",
+  "file": "Sparsh.pdf",
+  "pages": 31,
+  "title_guess": "Sparsh",
+  "year_candidates": [
+   2017,
+   2022,
+   2024
+  ],
+  "doi": null,
+  "arxiv": "2410.24090",
+  "theme_suggest": "02_触觉感知与传感",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 3,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 1,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-137.txt"
+ },
+ {
+  "id": "KB-138",
+  "file": "SpringGrasp-Compliant-Dexterous-Grasps-under-Shape-Uncertainty-2024.pdf",
+  "pages": 17,
+  "title_guess": "SpringGrasp-Compliant-Dexterous-Grasps-under-Shape-Uncertainty-2024",
+  "year_candidates": [
+   2024
+  ],
+  "doi": null,
+  "arxiv": "2404.13532",
+  "theme_suggest": "01_灵巧手抓取规划",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 2,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-138.txt"
+ },
+ {
+  "id": "KB-139",
+  "file": "Survey of Learning-based Approaches for Robotic.pdf",
+  "pages": 26,
+  "title_guess": "Survey of Learning-based Approaches for Robotic",
+  "year_candidates": [
+   2024
+  ],
+  "doi": null,
+  "arxiv": "2401.07915",
+  "theme_suggest": "10_综述与展望",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 6
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-139.txt"
+ },
+ {
+  "id": "KB-140",
+  "file": "Synthesizing Diverse and Physically Stable Grasps with Arbitrary Hand Structures using Differentiable Force Closure Estimator.pdf",
+  "pages": 9,
+  "title_guess": "Synthesizing Diverse and Physically Stable Grasps with Arbitrary Hand Structures using Differentiable Force Closure Estimator",
+  "year_candidates": [
+   2021,
+   2020,
+   2012,
+   2017,
+   2015,
+   2018
+  ],
+  "doi": null,
+  "arxiv": "2104.09194",
+  "theme_suggest": "05_抓取力优化与力封闭",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 4,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 18,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-140.txt"
+ },
+ {
+  "id": "KB-141",
+  "file": "TacDexGrasp.pdf",
+  "pages": 9,
+  "title_guess": "TacDexGrasp",
+  "year_candidates": [
+   2016,
+   2025,
+   2014,
+   2018,
+   2024,
+   2023
+  ],
+  "doi": null,
+  "arxiv": "2603.07040",
+  "theme_suggest": "01_灵巧手抓取规划",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 1,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 1,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 1,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-141.txt"
+ },
+ {
+  "id": "KB-142",
+  "file": "TacEva-A Performance Evaluation Framework For Vision-Based Tactile Sensors.pdf",
+  "pages": 14,
+  "title_guess": "TacEva-A Performance Evaluation Framework For Vision-Based Tactile Sensors",
+  "year_candidates": [
+   2025
+  ],
+  "doi": null,
+  "arxiv": "2509.19037",
+  "theme_suggest": "02_触觉感知与传感",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 15,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 2,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-142.txt"
+ },
+ {
+  "id": "KB-143",
+  "file": "TacGNN.pdf",
+  "pages": 9,
+  "title_guess": "TacGNN",
+  "year_candidates": [
+   2023,
+   2021,
+   2019,
+   2020,
+   2015,
+   2018
+  ],
+  "doi": null,
+  "arxiv": "2304.00736",
+  "theme_suggest": "08_学习与强化学习",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 1,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 2,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-143.txt"
+ },
+ {
+  "id": "KB-144",
+  "file": "TacRefineNet.pdf",
+  "pages": 9,
+  "title_guess": "TacRefineNet",
+  "year_candidates": [
+   2025,
+   2023,
+   2024,
+   2022,
+   2018,
+   2017
+  ],
+  "doi": null,
+  "arxiv": "2509.25746",
+  "theme_suggest": "08_学习与强化学习",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 2,
+   "09_视触融合与VLA": 2,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-144.txt"
+ },
+ {
+  "id": "KB-145",
+  "file": "Tactile Modality Fusion for Vision-Language-Action Models.pdf",
+  "pages": 20,
+  "title_guess": "Tactile Modality Fusion for Vision-Language-Action Models",
+  "year_candidates": [
+   2026
+  ],
+  "doi": null,
+  "arxiv": "2603.14604",
+  "theme_suggest": "09_视触融合与VLA",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 1,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 14,
+   "10_综述与展望": 1
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-145.txt"
+ },
+ {
+  "id": "KB-146",
+  "file": "Tactile RoboticsAn Outlook.pdf",
+  "pages": 20,
+  "title_guess": "Tactile RoboticsAn Outlook",
+  "year_candidates": [
+   2025
+  ],
+  "doi": null,
+  "arxiv": "2508.11261",
+  "theme_suggest": "10_综述与展望",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 3,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 6
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-146.txt"
+ },
+ {
+  "id": "KB-147",
+  "file": "Tactile sensing for dexterous in-hand manipulation in robotics—A review.pdf",
+  "pages": 17,
+  "title_guess": "Tactile sensing for dexterous in-hand manipulation in robotics—A review",
+  "year_candidates": [
+   2011,
+   2009,
+   2008,
+   2010,
+   2005,
+   2006
+  ],
+  "doi": "10.1016/j.sna.2011.02.038",
+  "arxiv": null,
+  "theme_suggest": "02_触觉感知与传感",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 12,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 12
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-147.txt"
+ },
+ {
+  "id": "KB-148",
+  "file": "Tactile sensing in dexterous robot hands — Review.pdf",
+  "pages": 26,
+  "title_guess": "Tactile sensing in dexterous robot hands — Review",
+  "year_candidates": [
+   2015
+  ],
+  "doi": "10.1016/j.robot.2015.07.015",
+  "arxiv": null,
+  "theme_suggest": "02_触觉感知与传感",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 23,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 16
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-148.txt"
+ },
+ {
+  "id": "KB-149",
+  "file": "Tactile sensor-less fingertip contact detection and force estimation for stable grasping with an under-actuated hand.pdf",
+  "pages": 18,
+  "title_guess": "Tactile sensor-less fingertip contact detection and force estimation for stable grasping with an under-actuated hand",
+  "year_candidates": [
+   2024
+  ],
+  "doi": "10.1186/s40648-024-00273-3",
+  "arxiv": null,
+  "theme_suggest": "02_触觉感知与传感",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 6,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 2,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-149.txt"
+ },
+ {
+  "id": "KB-150",
+  "file": "Tactile-based Active Inference for Force-Controlled Peg-in-Hole Insertions.pdf",
+  "pages": 7,
+  "title_guess": "Tactile-based Active Inference for Force-Controlled Peg-in-Hole Insertions",
+  "year_candidates": [
+   2020,
+   2023,
+   2018,
+   2022,
+   2019,
+   2021
+  ],
+  "doi": null,
+  "arxiv": "2309.15681",
+  "theme_suggest": "07_装配与操作任务",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 2,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 21,
+   "08_学习与强化学习": 6,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-150.txt"
+ },
+ {
+  "id": "KB-151",
+  "file": "TactileGCN.pdf",
+  "pages": 8,
+  "title_guess": "TactileGCN",
+  "year_candidates": [
+   2018,
+   2017,
+   2015,
+   2016,
+   2014,
+   2013
+  ],
+  "doi": "10.1016/j.robot.2015.07.015http://",
+  "arxiv": "1901.06181",
+  "theme_suggest": "01_灵巧手抓取规划",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 4,
+   "02_触觉感知与传感": 3,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-151.txt"
+ },
+ {
+  "id": "KB-152",
+  "file": "TactileSoftHandA3DPrinted.pdf",
+  "pages": 25,
+  "title_guess": "TactileSoftHandA3DPrinted",
+  "year_candidates": [
+   2014,
+   2017,
+   2018,
+   2022,
+   2021,
+   2016
+  ],
+  "doi": "10.1177/ToBeAssigned",
+  "arxiv": "2406.12731",
+  "theme_suggest": "04_绳驱机构与结构设计",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 7,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-152.txt"
+ },
+ {
+  "id": "KB-153",
+  "file": "The ability of underactuated hands to grasp and hold objects.pdf",
+  "pages": 18,
+  "title_guess": "The ability of underactuated hands to grasp and hold objects",
+  "year_candidates": [
+   2010,
+   2009
+  ],
+  "doi": "10.1016/j.mechmachtheory.2009.10.002",
+  "arxiv": null,
+  "theme_suggest": "04_绳驱机构与结构设计",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 17,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-153.txt"
+ },
+ {
+  "id": "KB-154",
+  "file": "The role of feed-forward and feedback processes for closed-loop prosthesis control.pdf",
+  "pages": 12,
+  "title_guess": "The role of feed-forward and feedback processes for closed-loop prosthesis control",
+  "year_candidates": [
+   2011
+  ],
+  "doi": null,
+  "arxiv": null,
+  "theme_suggest": "04_绳驱机构与结构设计",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 2,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-154.txt"
+ },
+ {
+  "id": "KB-155",
+  "file": "Towards Robotic Dexterous Hand Intelligence.pdf",
+  "pages": 22,
+  "title_guess": "Towards Robotic Dexterous Hand Intelligence",
+  "year_candidates": [
+   2020,
+   2024,
+   2018,
+   2021,
+   2025,
+   2026
+  ],
+  "doi": null,
+  "arxiv": "2605.13925",
+  "theme_suggest": "10_综述与展望",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 2,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 1,
+   "10_综述与展望": 6
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-155.txt"
+ },
+ {
+  "id": "KB-156",
+  "file": "UniDexGrasp.pdf",
+  "pages": 19,
+  "title_guess": "UniDexGrasp",
+  "year_candidates": [
+   2023
+  ],
+  "doi": null,
+  "arxiv": "2303.00938",
+  "theme_suggest": "08_学习与强化学习",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 1,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 2,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-156.txt"
+ },
+ {
+  "id": "KB-157",
+  "file": "Using Tactile Sensing to Improve the Sample Efficiency and Performance of Deep Deterministic Policy Gradients for Simulated In-Hand Manipulation Tasks.pdf",
+  "pages": 20,
+  "title_guess": "Using Tactile Sensing to Improve the Sample Efficiency and Performance of Deep Deterministic Policy Gradients for Simulated In-Hand Manipulation Tasks",
+  "year_candidates": [
+   2021,
+   2018,
+   2016,
+   2015,
+   2017,
+   2013
+  ],
+  "doi": "10.3389/frobt.2021.538773",
+  "arxiv": "1606.01540",
+  "theme_suggest": "08_学习与强化学习",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 6,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 7,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 1
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-157.txt"
+ },
+ {
+  "id": "KB-158",
+  "file": "VLA-Touch.pdf",
+  "pages": 18,
+  "title_guess": "VLA-Touch",
+  "year_candidates": [
+   2025
+  ],
+  "doi": null,
+  "arxiv": "2507.17294",
+  "theme_suggest": "09_视触融合与VLA",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 1,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 20,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-158.txt"
+ },
+ {
+  "id": "KB-159",
+  "file": "Variational Neural Belief Parameterizations.pdf",
+  "pages": 11,
+  "title_guess": "Variational Neural Belief Parameterizations",
+  "year_candidates": [
+   2026
+  ],
+  "doi": null,
+  "arxiv": "2604.25897",
+  "theme_suggest": "09_视触融合与VLA",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 1,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-159.txt"
+ },
+ {
+  "id": "KB-160",
+  "file": "Visual-Tactile Peg-in-Hole Assembly Learningfrom Peg-out-of-Hole Disassembly.pdf",
+  "pages": 8,
+  "title_guess": "Visual-Tactile Peg-in-Hole Assembly Learningfrom Peg-out-of-Hole Disassembly",
+  "year_candidates": [
+   2026,
+   2024,
+   2021,
+   2025,
+   2020,
+   2019
+  ],
+  "doi": "10.1109/LRA.2026.3679227",
+  "arxiv": "2602.04214",
+  "theme_suggest": "07_装配与操作任务",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 28,
+   "08_学习与强化学习": 3,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-160.txt"
+ },
+ {
+  "id": "KB-161",
+  "file": "Visual-tactile pretraining and online multitask learningfor humanlike manipulation dexterity.pdf",
+  "pages": 16,
+  "title_guess": "Visual-tactile pretraining and online multitask learningfor humanlike manipulation dexterity",
+  "year_candidates": [
+   2026
+  ],
+  "doi": null,
+  "arxiv": "1812.06298",
+  "theme_suggest": "08_学习与强化学习",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 4,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-161.txt"
+ },
+ {
+  "id": "KB-162",
+  "file": "dexteleop.pdf",
+  "pages": 15,
+  "title_guess": "dexteleop",
+  "year_candidates": [
+   2026
+  ],
+  "doi": null,
+  "arxiv": "2606.23431",
+  "theme_suggest": "02_触觉感知与传感",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 1,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-162.txt"
+ },
+ {
+  "id": "KB-163",
+  "file": "grasp Handbook of Robotics.pdf",
+  "pages": 34,
+  "title_guess": "grasp Handbook of Robotics",
+  "year_candidates": [],
+  "doi": null,
+  "arxiv": null,
+  "theme_suggest": "05_抓取力优化与力封闭",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 1,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-163.txt"
+ },
+ {
+  "id": "KB-164",
+  "file": "grasp_to_act_dexterous_grasping_for_tool_use_in_dynamic_setting.pdf",
+  "pages": 9,
+  "title_guess": "grasp to act dexterous grasping for tool use in dynamic setting",
+  "year_candidates": [
+   2023,
+   2024,
+   2025,
+   2022,
+   2021,
+   1992
+  ],
+  "doi": null,
+  "arxiv": "2602.20466",
+  "theme_suggest": "08_学习与强化学习",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 4,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 1
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-164.txt"
+ },
+ {
+  "id": "KB-165",
+  "file": "human-level bimanual dexterous manipulation with reinforcement learning.pdf",
+  "pages": 38,
+  "title_guess": "human-level bimanual dexterous manipulation with reinforcement learning",
+  "year_candidates": [
+   2022
+  ],
+  "doi": null,
+  "arxiv": "2206.08686",
+  "theme_suggest": "08_学习与强化学习",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 9,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-165.txt"
+ },
+ {
+  "id": "KB-166",
+  "file": "inspire_RH56DFX.pdf",
+  "pages": 8,
+  "title_guess": "inspire RH56DFX",
+  "year_candidates": [
+   2025,
+   2024,
+   2022,
+   2023,
+   1992,
+   2026
+  ],
+  "doi": "10.3389/fnbot.2022.861825",
+  "arxiv": "2603.08988",
+  "theme_suggest": "01_灵巧手抓取规划",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 1,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 1,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 1,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 1,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-166.txt"
+ },
+ {
+  "id": "KB-167",
+  "file": "n-Hand Manipulation with Enforced Grasp.pdf",
+  "pages": 5,
+  "title_guess": "n-Hand Manipulation with Enforced Grasp",
+  "year_candidates": [
+   2022,
+   2025,
+   2018,
+   2023,
+   2024,
+   2006
+  ],
+  "doi": null,
+  "arxiv": "2501.05439",
+  "theme_suggest": "08_学习与强化学习",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 2,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 3,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-167.txt"
+ },
+ {
+  "id": "KB-168",
+  "file": "orca.pdf",
+  "pages": 8,
+  "title_guess": "orca",
+  "year_candidates": [
+   2024,
+   2023,
+   2022,
+   2025,
+   2000,
+   2019
+  ],
+  "doi": "10.1055/b-0036-140288",
+  "arxiv": "2504.04259",
+  "theme_suggest": "02_触觉感知与传感",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 1,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 1,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-168.txt"
+ },
+ {
+  "id": "KB-169",
+  "file": "仿人多指手逆运动学及协同运动控制的研究_孙冰倩.pdf",
+  "pages": 71,
+  "title_guess": "仿人多指手逆运动学及协同运动控制的研究 孙冰倩",
+  "year_candidates": [
+   2017
+  ],
+  "doi": null,
+  "arxiv": null,
+  "theme_suggest": "03_阻抗与柔顺控制",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 1,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-169.txt"
+ },
+ {
+  "id": "KB-170",
+  "file": "仿人多指灵巧手的技术发展现状与趋势_陶永.pdf",
+  "pages": 18,
+  "title_guess": "仿人多指灵巧手的技术发展现状与趋势 陶永",
+  "year_candidates": [
+   2025,
+   2004,
+   2011,
+   1993,
+   1999,
+   2010
+  ],
+  "doi": null,
+  "arxiv": null,
+  "theme_suggest": "10_综述与展望",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 1,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 1,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 2,
+   "10_综述与展望": 8
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-170.txt"
+ },
+ {
+  "id": "KB-171",
+  "file": "仿人机器人多指灵巧手抓取技术研究_李卓.pdf",
+  "pages": 90,
+  "title_guess": "仿人机器人多指灵巧手抓取技术研究 李卓",
+  "year_candidates": [
+   2023
+  ],
+  "doi": null,
+  "arxiv": "1502.03143",
+  "theme_suggest": "08_学习与强化学习",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 1,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 1,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 2,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-171.txt"
+ },
+ {
+  "id": "KB-172",
+  "file": "仿人灵巧手的稳定抓取方法研究综述_李泳耀.pdf",
+  "pages": 16,
+  "title_guess": "仿人灵巧手的稳定抓取方法研究综述 李泳耀",
+  "year_candidates": [
+   2023
+  ],
+  "doi": null,
+  "arxiv": null,
+  "theme_suggest": "10_综述与展望",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 10
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-172.txt"
+ },
+ {
+  "id": "KB-173",
+  "file": "仿生灵巧手力反馈关键技术研究_高鹏.pdf",
+  "pages": 78,
+  "title_guess": "仿生灵巧手力反馈关键技术研究 高鹏",
+  "year_candidates": [
+   2024
+  ],
+  "doi": null,
+  "arxiv": null,
+  "theme_suggest": "10_综述与展望",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 1,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 1,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 5
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-173.txt"
+ },
+ {
+  "id": "KB-174",
+  "file": "压阻与电磁融合的机器人灵巧手力触觉环境感知方法研究_孙东.pdf",
+  "pages": 93,
+  "title_guess": "压阻与电磁融合的机器人灵巧手力触觉环境感知方法研究 孙东",
+  "year_candidates": [
+   2023
+  ],
+  "doi": null,
+  "arxiv": null,
+  "theme_suggest": "02_触觉感知与传感",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 3,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-174.txt"
+ },
+ {
+  "id": "KB-175",
+  "file": "基于PSO算法优化模糊PID控制器的灵巧手抓取控制研究_李锦洋.pdf",
+  "pages": 5,
+  "title_guess": "基于PSO算法优化模糊PID控制器的灵巧手抓取控制研究 李锦洋",
+  "year_candidates": [],
+  "doi": null,
+  "arxiv": null,
+  "theme_suggest": "10_综述与展望",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-175.txt"
+ },
+ {
+  "id": "KB-176",
+  "file": "基于力位感知技能学习的轴孔柔顺装配方法.pdf",
+  "pages": 9,
+  "title_guess": "基于力位感知技能学习的轴孔柔顺装配方法",
+  "year_candidates": [
+   2024,
+   2000
+  ],
+  "doi": "10.11996/JG.j.2095-302X.2024020250",
+  "arxiv": null,
+  "theme_suggest": "07_装配与操作任务",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 13,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 70,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-176.txt"
+ },
+ {
+  "id": "KB-177",
+  "file": "基于指尖传感器的DLR_HIT机器人灵巧手阻抗控制的研究.pdf",
+  "pages": 123,
+  "title_guess": "基于指尖传感器的DLR HIT机器人灵巧手阻抗控制的研究",
+  "year_candidates": [],
+  "doi": null,
+  "arxiv": null,
+  "theme_suggest": "03_阻抗与柔顺控制",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 34,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 1,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-177.txt"
+ },
+ {
+  "id": "KB-178",
+  "file": "基于指尖力触一体化传感器的灵巧手柔顺控制技术研究_衣鑫鑫.pdf",
+  "pages": 67,
+  "title_guess": "基于指尖力触一体化传感器的灵巧手柔顺控制技术研究 衣鑫鑫",
+  "year_candidates": [
+   2021
+  ],
+  "doi": null,
+  "arxiv": null,
+  "theme_suggest": "03_阻抗与柔顺控制",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 7,
+   "03_阻抗与柔顺控制": 31,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 3,
+   "10_综述与展望": 2
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-178.txt"
+ },
+ {
+  "id": "KB-179",
+  "file": "基于深度强化学习的机器人轴孔装配策略仿真研究.pdf",
+  "pages": 11,
+  "title_guess": "基于深度强化学习的机器人轴孔装配策略仿真研究",
+  "year_candidates": [
+   2024,
+   2023,
+   2001
+  ],
+  "doi": "10.16182/j.issn1004731x.joss.23-0518",
+  "arxiv": null,
+  "theme_suggest": "07_装配与操作任务",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 2,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 70,
+   "08_学习与强化学习": 12,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-179.txt"
+ },
+ {
+  "id": "KB-180",
+  "file": "基于视触融合的空间站舱内机器人多指灵巧抓取方法研究_阎宇航.pdf",
+  "pages": 117,
+  "title_guess": "基于视触融合的空间站舱内机器人多指灵巧抓取方法研究 阎宇航",
+  "year_candidates": [],
+  "doi": null,
+  "arxiv": null,
+  "theme_suggest": "09_视触融合与VLA",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 3,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-180.txt"
+ },
+ {
+  "id": "KB-181",
+  "file": "基于触觉的灵巧手抓取控制系统研究_耿银峰.pdf",
+  "pages": 77,
+  "title_guess": "基于触觉的灵巧手抓取控制系统研究 耿银峰",
+  "year_candidates": [
+   2025
+  ],
+  "doi": null,
+  "arxiv": null,
+  "theme_suggest": "10_综述与展望",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-181.txt"
+ },
+ {
+  "id": "KB-182",
+  "file": "多指灵巧手动力学建模与柔顺控制技术研究_范彪.pdf",
+  "pages": 77,
+  "title_guess": "多指灵巧手动力学建模与柔顺控制技术研究 范彪",
+  "year_candidates": [
+   2023
+  ],
+  "doi": null,
+  "arxiv": null,
+  "theme_suggest": "03_阻抗与柔顺控制",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 26,
+   "04_绳驱机构与结构设计": 4,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-182.txt"
+ },
+ {
+  "id": "KB-183",
+  "file": "多指灵巧手控制系统及阻抗控制策略研究_陈兆芃.pdf",
+  "pages": 162,
+  "title_guess": "多指灵巧手控制系统及阻抗控制策略研究 陈兆芃",
+  "year_candidates": [],
+  "doi": null,
+  "arxiv": null,
+  "theme_suggest": "03_阻抗与柔顺控制",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 51,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 1,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-183.txt"
+ },
+ {
+  "id": "KB-184",
+  "file": "数据驱动下的机器人轴孔装配研究综述.pdf",
+  "pages": 15,
+  "title_guess": "数据驱动下的机器人轴孔装配研究综述",
+  "year_candidates": [
+   2025,
+   2012,
+   2013,
+   2014
+  ],
+  "doi": null,
+  "arxiv": null,
+  "theme_suggest": "07_装配与操作任务",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 1,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 30,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 2,
+   "10_综述与展望": 8
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-184.txt"
+ },
+ {
+  "id": "KB-185",
+  "file": "日本三指夹爪_基于鲁棒力位控制的触觉传感器多指灵巧手自适应抓取.pdf",
+  "pages": 8,
+  "title_guess": "日本三指夹爪 基于鲁棒力位控制的触觉传感器多指灵巧手自适应抓取",
+  "year_candidates": [
+   2007,
+   2008,
+   1992,
+   1986,
+   1993,
+   1987
+  ],
+  "doi": null,
+  "arxiv": null,
+  "theme_suggest": "02_触觉感知与传感",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 5,
+   "03_阻抗与柔顺控制": 3,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 1
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-185.txt"
+ },
+ {
+  "id": "KB-186",
+  "file": "机器人与环境间力_位置控制技术研究与应用_李正义.pdf",
+  "pages": 127,
+  "title_guess": "机器人与环境间力 位置控制技术研究与应用 李正义",
+  "year_candidates": [],
+  "doi": null,
+  "arxiv": null,
+  "theme_suggest": "03_阻抗与柔顺控制",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 10,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 1,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-186.txt"
+ },
+ {
+  "id": "KB-187",
+  "file": "机器人灵巧手的物体触摸识别及自适应抓取研究_顾海巍.pdf",
+  "pages": 151,
+  "title_guess": "机器人灵巧手的物体触摸识别及自适应抓取研究 顾海巍",
+  "year_candidates": [
+   2017
+  ],
+  "doi": null,
+  "arxiv": null,
+  "theme_suggest": "01_灵巧手抓取规划",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 1,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 1,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 1,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-187.txt"
+ },
+ {
+  "id": "KB-188",
+  "file": "柑橘抓取灵巧手设计与试验_李志鑫.pdf",
+  "pages": 4,
+  "title_guess": "柑橘抓取灵巧手设计与试验 李志鑫",
+  "year_candidates": [
+   2025,
+   2019,
+   2022,
+   2024,
+   2018,
+   2021
+  ],
+  "doi": "10.3969/j.issn.1673-887X.2025.10.003",
+  "arxiv": null,
+  "theme_suggest": "04_绳驱机构与结构设计",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 3,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-188.txt"
+ },
+ {
+  "id": "KB-189",
+  "file": "柔性灵巧手的控制系统设计与仿真_王君.pdf",
+  "pages": 6,
+  "title_guess": "柔性灵巧手的控制系统设计与仿真 王君",
+  "year_candidates": [
+   2018,
+   2023,
+   2017,
+   2019,
+   2022
+  ],
+  "doi": "10.19356/j.cnki.1001-3997.20230427.010",
+  "arxiv": null,
+  "theme_suggest": "03_阻抗与柔顺控制",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 1,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-189.txt"
+ },
+ {
+  "id": "KB-190",
+  "file": "欠驱动仿生手的结构设计与抓取能力研究_马腾堃.pdf",
+  "pages": 99,
+  "title_guess": "欠驱动仿生手的结构设计与抓取能力研究 马腾堃",
+  "year_candidates": [
+   2024,
+   2022
+  ],
+  "doi": null,
+  "arxiv": null,
+  "theme_suggest": "04_绳驱机构与结构设计",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 1,
+   "04_绳驱机构与结构设计": 39,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 2
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-190.txt"
+ },
+ {
+  "id": "KB-191",
+  "file": "灵巧手自适应阻抗控制算法研究_时文(1).pdf",
+  "pages": 84,
+  "title_guess": "灵巧手自适应阻抗控制算法研究 时文(1)",
+  "year_candidates": [
+   2023
+  ],
+  "doi": null,
+  "arxiv": null,
+  "theme_suggest": "03_阻抗与柔顺控制",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 2,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 7,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 2,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-191.txt"
+ },
+ {
+  "id": "KB-192",
+  "file": "灵巧机械手抓取动力学与柔顺控制研究_陈世伟.pdf",
+  "pages": 92,
+  "title_guess": "灵巧机械手抓取动力学与柔顺控制研究 陈世伟",
+  "year_candidates": [
+   2022
+  ],
+  "doi": null,
+  "arxiv": null,
+  "theme_suggest": "03_阻抗与柔顺控制",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 11,
+   "04_绳驱机构与结构设计": 1,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-192.txt"
+ },
+ {
+  "id": "KB-193",
+  "file": "空间五指灵巧手单指力柔顺控制系统设计_王小涛.pdf",
+  "pages": 7,
+  "title_guess": "空间五指灵巧手单指力柔顺控制系统设计 王小涛",
+  "year_candidates": [
+   2019,
+   2015,
+   2010,
+   2016,
+   2014,
+   2013
+  ],
+  "doi": null,
+  "arxiv": null,
+  "theme_suggest": "03_阻抗与柔顺控制",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 30,
+   "04_绳驱机构与结构设计": 3,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-193.txt"
+ },
+ {
+  "id": "KB-194",
+  "file": "类人型五指灵巧手的设计及抓取规划的研究_樊绍巍.pdf",
+  "pages": 127,
+  "title_guess": "类人型五指灵巧手的设计及抓取规划的研究 樊绍巍",
+  "year_candidates": [
+   2009
+  ],
+  "doi": null,
+  "arxiv": null,
+  "theme_suggest": "01_灵巧手抓取规划",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 9,
+   "02_触觉感知与传感": 1,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 1,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 1,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-194.txt"
+ },
+ {
+  "id": "KB-195",
+  "file": "腱驱动灵巧手自适应控制算法的研究_葛胜.pdf",
+  "pages": 69,
+  "title_guess": "腱驱动灵巧手自适应控制算法的研究 葛胜",
+  "year_candidates": [
+   2019
+  ],
+  "doi": null,
+  "arxiv": null,
+  "theme_suggest": "04_绳驱机构与结构设计",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 3,
+   "04_绳驱机构与结构设计": 16,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 6,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-195.txt"
+ },
+ {
+  "id": "KB-196",
+  "file": "融合触觉感知的灵巧手控制系统及抓取策略研究_涂保戌.pdf",
+  "pages": 131,
+  "title_guess": "融合触觉感知的灵巧手控制系统及抓取策略研究 涂保戌",
+  "year_candidates": [
+   2024
+  ],
+  "doi": null,
+  "arxiv": "2403.10256",
+  "theme_suggest": "02_触觉感知与传感",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 2,
+   "03_阻抗与柔顺控制": 1,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 1,
+   "09_视触融合与VLA": 1,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": false,
+  "text_path": ".kb/text/KB-196.txt"
+ },
+ {
+  "id": "KB-197",
+  "file": "韩国机械手.pdf",
+  "pages": 46,
+  "title_guess": "韩国机械手",
+  "year_candidates": [],
+  "doi": null,
+  "arxiv": null,
+  "theme_suggest": "10_综述与展望",
+  "theme_scores": {
+   "01_灵巧手抓取规划": 0,
+   "02_触觉感知与传感": 0,
+   "03_阻抗与柔顺控制": 0,
+   "04_绳驱机构与结构设计": 0,
+   "05_抓取力优化与力封闭": 0,
+   "06_滑移检测与抓取稳定": 0,
+   "07_装配与操作任务": 0,
+   "08_学习与强化学习": 0,
+   "09_视触融合与VLA": 0,
+   "10_综述与展望": 0
+  },
+  "needs_ocr": true,
+  "text_path": ".kb/text/KB-197.txt"
+ }
+]

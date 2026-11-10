@@ -1,0 +1,32 @@
+{
+ "total": 201,
+ "unique": 197,
+ "dups": [
+  {
+   "keep": "Finger contact sensing and the application in dexterous hand manipulation(1).pdf",
+   "drop": "Finger contact sensing and the application in dexterous hand manipulation.pdf"
+  },
+  {
+   "keep": "PyTouch A Machine Learning Library for Touch Processing.pdf",
+   "drop": "PyTouch.pdf"
+  },
+  {
+   "keep": "Quadratic Programming for Multirobot and Task-Space Force Control(1).pdf",
+   "drop": "Quadratic Programming for Multirobot and Task-Space Force Control.pdf"
+  },
+  {
+   "keep": "灵巧手自适应阻抗控制算法研究_时文(1).pdf",
+   "drop": "灵巧手自适应阻抗控制算法研究_时文.pdf"
+  },
+  {
+   "keep": "Learning_to_Detect_Slip_with_Barometric_Tactile_Sensors_and_a_Temporal_Convolutional_Neural_Network.pdf",
+   "drop": "Learning to Detect Slip with Barometric Tactile Sensors and a Temporal Convolutional Neural Network.pdf",
+   "reason": "同一工作的 arXiv 预印本与 ICRA 2022 正式版，合并为 1 篇笔记"
+  },
+  {
+   "keep": "Multi-fingered grasping force optimization based on generalized penalty-function concepts.pdf",
+   "drop": "Multi-fingered grasping force optimization.pdf",
+   "reason": "同 DOI 10.1016/j.robot.2020.103672 的重复件"
+  }
+ ]
+}

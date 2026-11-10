@@ -1,0 +1,15 @@
+# 编辑器 / IDE
+.vscode/
+.marscode/
+.idea/
+
+# 系统文件
+.DS_Store
+
+# 可再生成的 PDF 抽取缓存（用 .kb/build_seeds.py 重建）
+.kb/text/
+.kb/ocr/
+
+# Obsidian 个人工作区状态
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
